@@ -65,3 +65,6 @@ Update unit costs.
 3.0
 Custom units, abilities and specials now use unique ids.
 Updated unit costs.
+
+3.0.1 (maintenance)
+Fix units not getting advancement when leveling up during enemy turn.
