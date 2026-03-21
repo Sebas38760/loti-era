@@ -62,6 +62,15 @@ Units can no longer pick up items dropped by their own side.
 2.7.6 (maintenance)
 Update unit costs.
 
-2.7.7 (maintenance)
-Allow placing LotI enemies in the editor
+3.0
+Custom units, abilities and specials now use unique ids.
+Updated unit costs.
 
+3.0.1 (maintenance)
+Fix units not getting advancement when leveling up during enemy turn.
+
+3.0.2 (translation)
+Added Spanish translation fix by Sebas
+
+3.0.3
+Allow placing LotI enemies in the editor
