@@ -1,7 +1,7 @@
 
 --! #textdomain "wesnoth-loti"
 
-local _ = wesnoth.textdomain "wesnoth-loti"
+local _ = wesnoth.textdomain "wesnoth-loti-era"
 
 local old_unit_status = wesnoth.interface.game_display.unit_status
 function wesnoth.interface.game_display.unit_status()
