@@ -10703,7 +10703,7 @@ msgstr "Interface"
 #. [option]
 #: .\utils\global_events.cfg:1084
 msgid "Frequently Asked Questions"
-msgstr "Question Fréquemment Posée"
+msgstr "Questions Fréquemment Posées"
 
 #. [then]
 #: .\utils\global_events.cfg:1195
