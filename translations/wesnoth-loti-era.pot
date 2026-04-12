@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-04-10 16:10\n"
+"POT-Creation-Date: 2026-04-12 21:43\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -217,6 +217,21 @@ msgstr ""
 #. [modification], id=LotI_Era
 #: .\_main.cfg:130
 msgid "LotI Modification"
+msgstr ""
+
+#. [value]
+#: .\_main.cfg:512
+msgid "better with $this_item.description"
+msgstr ""
+
+#. [value]
+#: .\_main.cfg:528
+msgid "faster with $this_item.description"
+msgstr ""
+
+#. [value]
+#: .\_main.cfg:548
+msgid "more brutish with $this_item.description"
 msgstr ""
 
 #. [advancement], id=armour
@@ -11792,6 +11807,24 @@ msgstr ""
 #. [set_menu_item], id=8respec
 #: .\utils\global_events.cfg:695
 msgid "Alter advancement"
+msgstr ""
+
+#. [value]
+#: .\utils\global_events.cfg:744
+#: .\utils\global_events.cfg:946
+msgid "better with "
+msgstr ""
+
+#. [value]
+#: .\utils\global_events.cfg:760
+#: .\utils\global_events.cfg:962
+msgid "faster with "
+msgstr ""
+
+#. [value]
+#: .\utils\global_events.cfg:780
+#: .\utils\global_events.cfg:982
+msgid "more brutish with "
 msgstr ""
 
 #. [then]

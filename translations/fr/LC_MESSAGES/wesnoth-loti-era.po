@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-04-10 16:10\n"
-"PO-Revision-Date: 2026-04-10 16:13+0100\n"
+"POT-Creation-Date: 2026-04-12 21:43\n"
+"PO-Revision-Date: 2026-04-12 21:44+0100\n"
 "Last-Translator: Rodolphe Combe-Colas\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -213,6 +213,21 @@ msgstr "Konrad2, Raijer, RainerT, Swistwarrior333, Aevyn, lynx, Cluesen_Mz, arob
 #: .\_main.cfg:130
 msgid "LotI Modification"
 msgstr "LdI Modification"
+
+#. [value]
+#: .\_main.cfg:512
+msgid "better with $this_item.description"
+msgstr "meilleur avec $this_item.description"
+
+#. [value]
+#: .\_main.cfg:528
+msgid "faster with $this_item.description"
+msgstr "plus rapide avec $this_item.description"
+
+#. [value]
+#: .\_main.cfg:548
+msgid "more brutish with $this_item.description"
+msgstr "plus brutal avec $this_item.description"
 
 #. [advancement], id=armour
 #: .\_main.cfg:604
@@ -10668,6 +10683,24 @@ msgstr "$item_info.name, que vous n'aviez pas pu ramassé avant la fin du scéna
 msgid "Alter advancement"
 msgstr "Changer d'avancement"
 
+#. [value]
+#: .\utils\global_events.cfg:744
+#: .\utils\global_events.cfg:946
+msgid "better with "
+msgstr "meilleur avec "
+
+#. [value]
+#: .\utils\global_events.cfg:760
+#: .\utils\global_events.cfg:962
+msgid "faster with "
+msgstr "plus rapide avec "
+
+#. [value]
+#: .\utils\global_events.cfg:780
+#: .\utils\global_events.cfg:982
+msgid "more brutish with "
+msgstr "plus brutal avec "
+
 #. [then]
 #: .\utils\global_events.cfg:836
 msgid "Last advancement not found."
@@ -18616,6 +18649,8 @@ msgstr ""
 "- Certains objets n'ont d'effet qu'en combinaison avec d'autres objets équipés spécifiques. Dans les descriptions, ces objets sont affichés en lettres violettes, ces propriétés fonctionnent comme des avancements.\n"
 "- Certains avancements donnent des attaques spéciales dont les dégats, nombre d'attaques, icône, spécificité et animations sont basées sur l'attaque de base de l'unité. "
 
+#~ msgid "better"
+#~ msgstr "meilleur "
 #~ msgid ""
 #~ "This unit can hide in deciduous forest, and remain undetected by its "
 #~ "enemies.\n"
