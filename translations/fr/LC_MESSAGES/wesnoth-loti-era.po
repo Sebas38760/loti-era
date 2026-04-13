@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-04-12 21:43\n"
-"PO-Revision-Date: 2026-04-12 21:44+0100\n"
+"PO-Revision-Date: 2026-04-13 18:46+0100\n"
 "Last-Translator: Rodolphe Combe-Colas\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 #. [editor_group], id=wesnoth-UMC-LotI
 #: .\terrain.cfg:4
 msgid "Legend of the Invincibles (custom terrains)"
-msgstr "La Légende des Invincibles (terrains personalisés)"
+msgstr "La Légende des Invincibles (terrains personnalisés)"
 
 #. [terrain_type], id=arctic_wasteland
 #: .\terrain.cfg:47
@@ -61,7 +61,7 @@ msgstr "Paysage Etrange"
 #: .\terrain.cfg:110
 #: .\terrain.cfg:111
 msgid "Weird Eye"
-msgstr "Oeil Etrange"
+msgstr "Œil Etrange"
 
 #. [terrain_type], id=weird_eyes
 #: .\terrain.cfg:119
@@ -95,31 +95,31 @@ msgstr "Forêt Infernale"
 #. [terrain_type], id=rainforest_loti_old
 #: .\terrain.cfg:170
 msgid "Rainforest (deprecated)"
-msgstr "Forêt Tropicale Humide (dépréciée)"
+msgstr "Forêt Tropicale Humide (déprécié)"
 
 #. [terrain_type], id=palm_forest_loti_old
 #: .\terrain.cfg:198
 #: .\terrain.cfg:276
 msgid "Palm Forest (deprecated, use default)"
-msgstr "Forêt de Palmier (dépreciée, utiliser celle par défaut)"
+msgstr "Forêt de Palmier (déprécié, utiliser celui par défaut)"
 
 #. [terrain_type], id=palms_on_hills_loti_old
 #: .\terrain.cfg:211
 #: .\terrain.cfg:289
 msgid "Palms on Hills (deprecated, use default)"
-msgstr "Palmiers sur Collines (dépreciée, utiliser celle par défault)"
+msgstr "Palmiers sur Collines (déprécié, utiliser celui par défaut)"
 
 #. [terrain_type], id=palm_desert_forest_loti_old
 #: .\terrain.cfg:224
 #: .\terrain.cfg:302
 msgid "Palm Desert Forest (deprecated, use default)"
-msgstr "Forêt de Palmier Désertique  (dépreciée, utiliser celle par défault)"
+msgstr "Forêt de Palmier Désertique (déprécié, utiliser celui par défaut)"
 
 #. [terrain_type], id=palms_on_dunes_loti_old
 #: .\terrain.cfg:238
 #: .\terrain.cfg:316
 msgid "Palms on Dunes (deprecated, use default)"
-msgstr "Palmiers sur Dune (dépreciée, utiliser celle par défault)"
+msgstr "Palmiers sur Dune (déprécié, utiliser celui par défaut)"
 
 #. [terrain_type], id=savanna_loti_old_loti_old
 #: .\terrain.cfg:248
@@ -131,13 +131,13 @@ msgstr "Savane"
 #: .\terrain.cfg:249
 #: .\terrain.cfg:329
 msgid "Savanna (deprecated, use default)"
-msgstr " Savane (dépreciée, utiliser celle par défault)"
+msgstr " Savane (déprécié, utiliser celui par défaut)"
 
 #. [terrain_type], id=savanna_hills_loti_old
 #: .\terrain.cfg:263
 #: .\terrain.cfg:343
 msgid "Savanna Hills (deprecated, use default)"
-msgstr "Collines de Savane (dépreciée, utiliser celle par défault)"
+msgstr "Collines de Savane (déprécié, utiliser celui par défaut)"
 
 #. [about] name=Lhybrideur
 #: .\_main.cfg:12
@@ -147,7 +147,7 @@ msgstr "Auteur de cette modification"
 #. [about] name=ForestDragon
 #: .\_main.cfg:18
 msgid "Generic AMLA for custom units by"
-msgstr "APNM générique pour les unités personalisées par"
+msgstr "APNM générique pour les unités personnalisées par"
 
 #. [about] name=Dugi
 #: .\_main.cfg:24
@@ -411,7 +411,7 @@ msgstr "améthystes"
 
 #: .\lua\crafting.lua:15
 msgid "sapphires"
-msgstr "sapphires"
+msgstr "saphirs"
 
 #: .\lua\crafting.lua:15
 msgid "black pearls"
@@ -507,11 +507,11 @@ msgstr "Gantelets"
 
 #: .\lua\crafting.lua:586
 msgid "Mace (or hammer, club, morning star, scourge, flail, ...)"
-msgstr "Massue (ou marteau, gourdin, morgenstern, fléau, fléau d'armes,...)"
+msgstr "Massue (ou marteau, gourdin, Morgenstern, fléau, fléau d'armes, ...)"
 
 #: .\lua\crafting.lua:587
 msgid "Crossbow (or slurbow)"
-msgstr "Arbalète (ou slurbow)"
+msgstr "Arbalète (ou arbalète à canon)"
 
 #: .\lua\crafting.lua:591
 msgid "Knife (throwing)"
@@ -523,7 +523,7 @@ msgstr "Lance (ou javelot, lance de cavalerie, pique, trident)"
 
 #: .\lua\crafting.lua:593
 msgid "Polearm (halberd, scythe, ...)"
-msgstr "Arme d'hast (ou hallebarde, faux,...)"
+msgstr "Arme d'hast (ou hallebarde, faux, ...)"
 
 #: .\lua\crafting.lua:594
 msgid "Sling (or bolas or net)"
@@ -539,7 +539,7 @@ msgstr "Griffes en métal"
 
 #: .\lua\crafting.lua:597
 msgid "Otherworldly essence (for touch attacks, baneblade, ...)"
-msgstr "Essence d'autre monde (pour les attaques de toucher, lame maléfique,...)"
+msgstr "Essence d'autre monde (pour les attaques de toucher, lame de ruine, ...)"
 
 #: .\lua\crafting.lua:667
 msgid "Are you sure you want to craft this item?"
@@ -559,7 +559,7 @@ msgstr "unralentissable : Cette unité est immunisée au ralentissement"
 
 #: .\lua\hacks.lua:32
 msgid "unpoisonable: This unit cannot be affected by poison."
-msgstr "inempoisonnable : Cette unitée est immunisée au poison."
+msgstr "inempoisonnable : Cette unité est immunisée au poison."
 
 #: .\lua\hacks.lua:38
 msgid "undrainable: This unit cannot be drained."
@@ -575,7 +575,7 @@ msgstr "%d%% à toutes les résistances (divisé par deux à chaque tour)"
 
 #: .\lua\hacks.lua:77
 msgid "%d to damage (halves every turn)"
-msgstr "%d%% aux dégats (divisé par deux à chaque tour)"
+msgstr "%d%% aux dégâts (divisé par deux à chaque tour)"
 
 #: .\lua\hacks.lua:78
 msgid "%d%% enemy chance to hit (halves every turn)"
@@ -1106,13 +1106,13 @@ msgstr "L'utiliser."
 #: .\lua\item_pick.lua:32
 #: .\lua\item_pick.lua:47
 msgid "Store it. Currently having "
-msgstr "Stocker l'item. Actuellement, "
+msgstr "Stocker l'objet. Actuellement, "
 
 #: .\lua\item_pick.lua:17
 #: .\lua\item_pick.lua:32
 #: .\lua\item_pick.lua:47
 msgid " such items stored."
-msgstr " items de ce type sont stockés."
+msgstr " objets de ce type sont stockés."
 
 #: .\lua\item_pick.lua:17
 #: .\lua\item_pick.lua:32
@@ -1131,7 +1131,7 @@ msgstr "Items du même type qui seront déséquipés : "
 
 #: .\lua\item_pick.lua:46
 msgid "Take this item?"
-msgstr "Prendre cet item ?"
+msgstr "Prendre cet objet ?"
 
 #: .\lua\item_pick.lua:47
 msgid "Take it."
@@ -1139,7 +1139,7 @@ msgstr "Le prendre."
 
 #: .\lua\item_pick.lua:57
 msgid "irrelevant"
-msgstr "non significatif"
+msgstr "non pertinent"
 
 #. [lua]: wesnoth.wml_actions.harm_unit_loti
 #: .\lua\main.lua:296
@@ -1174,7 +1174,7 @@ msgstr "Faim :</span>"
 #. [lua]: wesnoth.wml_actions.harm_unit_loti
 #: .\lua\main.lua:317
 msgid "Turns until From The Ashes will be usable:</span> "
-msgstr "Tours jusqu'à ce que Des Cendres soit de nouveau utilisable:</span> "
+msgstr "Tours jusqu'à ce que Des Cendres soit de nouveau utilisable :</span> "
 
 #. [lua]: wesnoth.wml_actions.harm_unit_loti
 #: .\lua\main.lua:322
@@ -1194,7 +1194,7 @@ msgstr ", inactif"
 #. [lua]: wesnoth.wml_actions.harm_unit_loti
 #: .\lua\main.lua:402
 msgid ", defense only"
-msgstr ", defense uniquement"
+msgstr ", défense uniquement"
 
 #. [lua]: wesnoth.wml_actions.harm_unit_loti
 #: .\lua\main.lua:404
@@ -1314,7 +1314,7 @@ msgstr "Sur le sable\t\t\t\t"
 #. [lua]: wesnoth.wml_actions.harm_unit_loti
 #: .\lua\main.lua:605
 msgid "Above unwalkable places"
-msgstr "Au dessus des terrains impraticables"
+msgstr "Au-dessus des terrains impraticables"
 
 #. [lua]: wesnoth.wml_actions.harm_unit_loti
 #: .\lua\main.lua:606
@@ -1324,7 +1324,7 @@ msgstr "Dans les murs infranchissables"
 #. [lua]: wesnoth.wml_actions.unit_information_part_6
 #: .\lua\main.lua:649
 msgid "<span size='large' weight='bold'>Soul eating/redeem/books advancement paths:</span>\n"
-msgstr "<span size='large' weight='bold'>Voies d'avancement des dévorage d'âme/rédemption/livres : </span>\n"
+msgstr "<span size='large' weight='bold'>Voies d'avancement des dévorages d'âme/rédemptions/livres : </span>\n"
 
 #. [lua]: wesnoth.wml_actions.advance_stuff
 #. [attack], type=pierce, range=ranged
@@ -1345,107 +1345,107 @@ msgstr "Cette unité ne peut pas équiper cet objet."
 #. [lua]: wesnoth.wml_actions.check_unit_title
 #: .\lua\main.lua:922
 msgid "This unit cannot wear armours."
-msgstr "Cette unité ne peux pas porter d'armure."
+msgstr "Cette unité ne peut pas porter d'armure."
 
 #. [lua]: wesnoth.wml_actions.check_unit_title
 #: .\lua\main.lua:924
 msgid "This unit cannot wear armours, not even helms."
-msgstr "Cette unité ne peux pas porter d'armure, même un casque."
+msgstr "Cette unité ne peut pas porter d'armure, même un casque."
 
 #. [lua]: wesnoth.wml_actions.check_unit_title
 #: .\lua\main.lua:926
 msgid "This unit cannot wear armours, not even gauntlets."
-msgstr "Cette unité ne peux pas porter d'armure, même des gantelets."
+msgstr "Cette unité ne peut pas porter d'armure, même des gantelets."
 
 #. [lua]: wesnoth.wml_actions.check_unit_title
 #: .\lua\main.lua:928
 msgid "This unit cannot wear armours, not even boots. It's a sad person, having to walk barefoot all the time..."
-msgstr "Cette unité ne peux pas porter d'armure, même des bottes. C'est une personne triste, à marcher pieds nus tout le temps..."
+msgstr "Cette unité ne peut pas porter d'armure, même des bottes. C'est une personne triste, à marcher pieds nus tout le temps..."
 
 #. [lua]: wesnoth.wml_actions.check_unit_title
 #: .\lua\main.lua:930
 msgid "This unit cannot wear rings. It might make marriage problematic."
-msgstr "Cette unité ne peux pas porter d'anneau. Ça risque de rendre le maraige problématique."
+msgstr "Cette unité ne peut pas porter d'anneau. Ça risque de rendre le mariage problématique."
 
 #. [lua]: wesnoth.wml_actions.check_unit_title
 #: .\lua\main.lua:932
 msgid "This unit cannot wear amulets."
-msgstr "Cette unité ne peux pas porter d'amulette."
+msgstr "Cette unité ne peut pas porter d'amulette."
 
 #. [lua]: wesnoth.wml_actions.check_unit_title
 #: .\lua\main.lua:934
 msgid "This unit cannot wear cloaks. Winter is not coming, fortunately."
-msgstr "Cette unité ne peux pas porter de cape. L'hiver ne vient pas, heureusement."
+msgstr "Cette unité ne peut pas porter de cape. L'hiver ne vient pas, heureusement."
 
 #. [lua]: wesnoth.wml_actions.check_unit_title
 #: .\lua\main.lua:936
 msgid "This unit cannot use swords."
-msgstr "Cette unité ne peux pas utiliser d'épée."
+msgstr "Cette unité ne peut pas utiliser d'épée."
 
 #. [lua]: wesnoth.wml_actions.check_unit_title
 #: .\lua\main.lua:938
 msgid "This unit cannot use axes."
-msgstr "Cette unité ne peux pas utiliser de hache."
+msgstr "Cette unité ne peut pas utiliser de hache."
 
 #. [lua]: wesnoth.wml_actions.check_unit_title
 #: .\lua\main.lua:940
 msgid "This unit cannot use bows."
-msgstr "Cette unité ne peux pas utiliser d'arc."
+msgstr "Cette unité ne peut pas utiliser d'arc."
 
 #. [lua]: wesnoth.wml_actions.check_unit_title
 #: .\lua\main.lua:942
 msgid "This unit cannot use staves."
-msgstr "Cette unité ne peux pas utiliser de bâton."
+msgstr "Cette unité ne peut pas utiliser de bâton."
 
 #. [lua]: wesnoth.wml_actions.check_unit_title
 #: .\lua\main.lua:944
 msgid "This unit cannot use crossbows."
-msgstr "Cette unité ne peux pas utiliser d'arbalète."
+msgstr "Cette unité ne peut pas utiliser d'arbalète."
 
 #. [lua]: wesnoth.wml_actions.check_unit_title
 #: .\lua\main.lua:946
 msgid "This unit cannot use daggers. Probably prefers more honest combat tactics."
-msgstr "Cette unité ne peux pas utiliser de dague. Elle préfère probablement les tactiques de combat plus honnêtes."
+msgstr "Cette unité ne peut pas utiliser de dague. Elle préfère probablement les tactiques de combat plus honnêtes."
 
 #. [lua]: wesnoth.wml_actions.check_unit_title
 #: .\lua\main.lua:948
 msgid "This unit cannot throw knives."
-msgstr "Cette unité ne peux pas lancer de couteaux."
+msgstr "Cette unité ne peut pas lancer de couteaux."
 
 #. [lua]: wesnoth.wml_actions.check_unit_title
 #: .\lua\main.lua:950
 msgid "This unit cannot use maces."
-msgstr "Cette unité ne peux pas utiliser de masse."
+msgstr "Cette unité ne peut pas utiliser de masse."
 
 #. [lua]: wesnoth.wml_actions.check_unit_title
 #: .\lua\main.lua:952
 msgid "This unit cannot use polearms."
-msgstr "Cette unité ne peux pas utiliser d'arme d'hast."
+msgstr "Cette unité ne peut pas utiliser d'arme d'hast."
 
 #. [lua]: wesnoth.wml_actions.check_unit_title
 #: .\lua\main.lua:954
 msgid "This unit cannot use metal claws."
-msgstr "Cette unité ne peux pas utiliser de griffes en métal."
+msgstr "Cette unité ne peut pas utiliser de griffes en métal."
 
 #. [lua]: wesnoth.wml_actions.check_unit_title
 #: .\lua\main.lua:956
 msgid "This unit cannot use slings."
-msgstr "Cette unité ne peux pas utiliser de fronde."
+msgstr "Cette unité ne peut pas utiliser de fronde."
 
 #. [lua]: wesnoth.wml_actions.check_unit_title
 #: .\lua\main.lua:958
 msgid "This unit cannot use otherworldly essences."
-msgstr "Cette unité ne peux pas utiliser d'essence d'outremonde."
+msgstr "Cette unité ne peut pas utiliser d'essence d'outre-monde."
 
 #. [lua]: wesnoth.wml_actions.check_unit_title
 #: .\lua\main.lua:960
 msgid "This unit cannot use weapons that are so advanced."
-msgstr "Cette unité ne peux pas utiliser d'armes aussi avancées."
+msgstr "Cette unité ne peut pas utiliser d'armes aussi avancées."
 
 #. [lua]: wesnoth.wml_actions.check_unit_title
 #: .\lua\main.lua:962
 msgid "This unit cannot use spears. Seems to prefer more advanced weapons."
-msgstr "Cette unité ne peux pas utiliser de lance. Elle semble préférer des armes plus avancées."
+msgstr "Cette unité ne peut pas utiliser de lance. Elle semble préférer des armes plus avancées."
 
 #. [lua]: wesnoth.wml_actions.check_unit_title
 #: .\lua\main.lua:969
@@ -1455,7 +1455,7 @@ msgstr "Cette unité a déjà cet objet limité."
 #. [lua]: wesnoth.wml_actions.recall_from_variable
 #: .\lua\recall.lua:48
 msgid "Select unit to recall"
-msgstr "Selectionner l'unité à rappeller"
+msgstr "Sélectionner l'unité à rappeler"
 
 #. [lua]: wesnoth.wml_actions.recall_from_variable
 #. [lua]: wesnoth.wml_actions.autorecall_menu
@@ -1468,7 +1468,7 @@ msgstr "OK"
 #. [lua]: wesnoth.wml_actions.autorecall_menu
 #: .\lua\recall.lua:264
 msgid "Units to be Automatically Recalled ("
-msgstr "Unités à Rappeller Automatiquement ("
+msgstr "Unités à Rappeler Automatiquement ("
 
 #. [lua]: wesnoth.wml_actions.autorecall_menu
 #: .\lua\recall.lua:282
@@ -1478,7 +1478,7 @@ msgstr "Unités Disponibles ("
 #. [lua]: wesnoth.wml_actions.autorecall_menu
 #: .\lua\recall.lua:312
 msgid "Buy space to automatically recall an additional unit"
-msgstr "Acheter de l'espace pour rappeller automatiquement une unité additionelle"
+msgstr "Acheter de l'espace pour rappeler automatiquement une unité additionnelle"
 
 #. [lua]: wesnoth.wml_actions.autorecall_menu
 #: .\lua\recall.lua:313
@@ -1524,7 +1524,7 @@ msgstr "Aspire $amount de vie après chaque coup réussi."
 
 #: .\lua\stats.lua:280
 msgid "Sucks $amount health on each successful hit with blade, pierce, impact or arcane damage."
-msgstr "Aspire $amount de vie après chaque coup réussi avec des dégats tranchants, perforants, contondants ou d'arcane."
+msgstr "Aspire $amount de vie après chaque coup réussi avec des dégâts tranchants, perforants, contondants ou d'arcane."
 
 #: .\lua\stats.lua:296
 msgid "devastating blow"
@@ -1554,23 +1554,23 @@ msgstr "Choisir les armes pour les représailles"
 
 #: .\lua\inventory\items.lua:53
 msgid "Unequip (store) all items"
-msgstr "Déséquiper (stocker) tous les items"
+msgstr "Déséquiper (stocker) tous les objets"
 
 #: .\lua\inventory\items.lua:55
 msgid "Are you sure? All items of this unit will be placed into the item storage."
-msgstr "Êtes-vous sûr ? Tous les items de cette unité seront placés dans le stockage d'items."
+msgstr "Êtes-vous sûr ? Tous les objets de cette unité seront placés dans le stock d'objets."
 
 #: .\lua\inventory\items.lua:63
 msgid "Items on units on the recall list"
-msgstr "Items sur les unités sur la liste de rappel"
+msgstr "Objets sur les unités sur la liste de rappel"
 
 #: .\lua\inventory\items.lua:69
 msgid "Pick up items on the ground"
-msgstr "Ramasser les items sur le sol"
+msgstr "Ramasser les objets sur le sol"
 
 #: .\lua\inventory\misc.lua:31
 msgid "[no item]"
-msgstr "[pas d'item]"
+msgstr "[pas d'objet]"
 
 #: .\lua\inventory\misc.lua:32
 msgid "no ring"
@@ -1668,7 +1668,7 @@ msgstr "Fermer"
 
 #: .\lua\inventory\recall.lua:75
 msgid "These units on recall list have items:"
-msgstr "Ces unités sur la liste de rappel ont des items :"
+msgstr "Ces unités sur la liste de rappel ont des objets :"
 
 #: .\lua\inventory\retaliation.lua:65
 msgid "Which attacks do you allow to use for retaliation?"
@@ -1695,15 +1695,15 @@ msgstr "Déséquiper"
 
 #: .\lua\inventory\storage.lua:286
 msgid "Cannot access item storage after turn 2 outside a castle."
-msgstr "Impossible d'accéder au stockage d'items après le tour 2 à l'extérieur d'un château."
+msgstr "Impossible d'accéder au stock d'objets après le tour 2 à l'extérieur d'un château."
 
 #: .\lua\inventory\storage.lua:288
 msgid "Item storage is empty."
-msgstr "Le stockage d'items est vide."
+msgstr "Le stock d'objets est vide."
 
 #: .\lua\inventory\storage.lua:293
 msgid "In the item storage:"
-msgstr "Dans le stockage d'items :"
+msgstr "Dans le stock d'objets :"
 
 #: .\lua\inventory\storage.lua:438
 msgid "Currently equipped: "
@@ -1731,11 +1731,11 @@ msgstr ""
 
 #: .\lua\inventory\storage.lua:517
 msgid " can't take new items from the storage."
-msgstr " ne peut pas prendre de nouveaux items du stockage."
+msgstr " ne peut pas prendre de nouveaux objets du stock."
 
 #: .\lua\inventory\storage.lua:521
 msgid "This unit can't equip such items.\n"
-msgstr "Cette unité ne peut pas équiper de tels items.\n"
+msgstr "Cette unité ne peut pas équiper de tels objets.\n"
 
 #: .\lua\inventory\storage.lua:522
 msgid "They are unworthy of a mighty "
@@ -1747,7 +1747,7 @@ msgstr "ATTENTION :"
 
 #: .\lua\inventory\storage.lua:535
 msgid "this item is purely nostalgic (from the good old times when this unit needed it).\n"
-msgstr "cet item est purement nostalgique (du bon vieux temps où cette unité en avait besoin).\n"
+msgstr "cet objet est purement nostalgique (du bon vieux temps où cette unité en avait besoin).\n"
 
 #: .\lua\inventory\storage.lua:536
 msgid ""
@@ -1774,7 +1774,7 @@ msgstr "Les histoires d'horreur à propos de morts-vivants terrifiants mentent h
 #. [advancement], id=bite-eager
 #: .\units\Abomination.cfg:136
 msgid "dealing 50% more damage to poisoned enemies"
-msgstr "inflige 50% de dégats supplémentaire contre les ennemis empoisonnés"
+msgstr "inflige 50% de dégâts supplémentaire contre les ennemis empoisonnés"
 
 #. [advancement], id=bite2-swarn
 #: .\units\Abomination.cfg:154
@@ -1815,7 +1815,7 @@ msgstr "blesser plus les ennemis adjacents quand touchée"
 #. [advancement], id=despair
 #: .\units\Abomination.cfg:296
 msgid "causing nearby enemies to deal less damage"
-msgstr "faire infliger moins de dégats aux ennemis proches"
+msgstr "faire infliger moins de dégâts aux ennemis proches"
 
 #. [advancement], id=despair2
 #. [advancement], id=despair3
@@ -1824,7 +1824,7 @@ msgstr "faire infliger moins de dégats aux ennemis proches"
 #: .\units\Abomination.cfg:334
 #: .\units\Abomination.cfg:356
 msgid "causing nearby enemies to deal even less damage"
-msgstr "faire que les ennemis proches infligent encore moins de dégats"
+msgstr "faire que les ennemis proches infligent encore moins de dégâts"
 
 #. [unit_type], id=09 Ancient Lich, race=undead
 #: .\units\Ancient_Lich.cfg:20
@@ -1858,18 +1858,18 @@ msgstr "aspirer la santé des ennemis avec l'onde obscure"
 #. [advancement], id=withering presence
 #: .\units\Ancient_Lich.cfg:244
 msgid "making adjacent non-undead enemies less resistant to arcane, fire and impact"
-msgstr "rendre les unités adjacentes non-mortes-vivantes moins résistantes à l'arcane, le feu et les dégats contondants."
+msgstr "rendre les unités adjacentes non-mortes-vivantes moins résistantes à l'arcane, le feu et les dégâts contondants."
 
 #. [advancement], id=memories of life
 #: .\units\Ancient_Lich.cfg:260
 msgid "more resistant to arcane, fire and impact is standing next to at least 2 allied non-undead"
-msgstr "plus résistante à l'arcane, au feu et aux dégats contondants avec au moins deux alliés non-morts-vivants adjacents"
+msgstr "plus résistante à l'arcane, au feu et aux dégâts contondants avec au moins deux alliés non-morts-vivants adjacents"
 
 #. [advancement], id=armour
 #: .\units\Ancient_Lich.cfg:275
 #: .\units\Zombie_Rider.cfg:278
 msgid "more undead-like resistance (improved resistances, slightly worsened weaknesses)"
-msgstr "des résistances plus similaires aux morts-vivants (résistances améliorées, faiblesses légérement empirées)"
+msgstr "des résistances plus similaires aux morts-vivants (résistances améliorées, faiblesses légèrement empirées)"
 
 #. [unit_type], id=Arch Necromancer LotI, race=human
 #: .\units\Arch_Necromancer.cfg:4
@@ -1879,7 +1879,7 @@ msgstr "Archi-Nécromancien"
 #. [unit_type], id=Arch Necromancer LotI, race=human
 #: .\units\Arch_Necromancer.cfg:31
 msgid "The greatest of the necromancers are greatly prepared to become liches, but they prefer to enjoy life while they are still living. They are much stronger in human body, and when they die, they become liches, but their magic abilities will diminish during the transformation."
-msgstr "Les plus grandes nécromanciennes sont tout à fait prête à devenir des liches mais préfèrent profiter de la vie tant qu'elles sont encore vivantes. Leur corps humain est plus puissant et, lorsqu'elles meurent, elles deviennent des liches, mais leurs capacités magiques seront diminuées pendant la transformation."
+msgstr "Les plus grandes nécromanciennes sont tout à fait prêtes à devenir des liches mais préfèrent profiter de la vie tant qu'elles sont encore vivantes. Leur corps humain est plus puissant et, lorsqu'elles meurent, elles deviennent des liches, mais leurs capacités magiques seront diminuées pendant la transformation."
 
 #. [female]
 #: .\units\Arch_Necromancer.cfg:196
@@ -1904,7 +1904,7 @@ msgstr "créer des fantômes à partir des victimes de l'onde obscure"
 #. [advancement], id=lifeforce transfer
 #: .\units\Arch_Necromancer.cfg:354
 msgid "making adjacent undead more resistant to arcane, fire and impact"
-msgstr "rendre les morts-vivants adjacents plus résistants à l'arcane, au feu et aux dégats contondants"
+msgstr "rendre les morts-vivants adjacents plus résistants à l'arcane, au feu et aux dégâts contondants"
 
 #. [advancement], id=death blending
 #: .\units\Arch_Necromancer.cfg:370
@@ -1947,7 +1947,7 @@ msgstr "irradier des ténèbres surnaturels"
 #. [advancement], id=darken
 #: .\units\Blackguard.cfg:148
 msgid "able to teleport to an adjacent endangered ally"
-msgstr "capable de se téléporter vers un allié adjacant en danger"
+msgstr "capable de se téléporter vers un allié adjacent en danger"
 
 #. [unit_type], id=Celestial Messenger LotI, race=human
 #. [unit_type], id=Demon Infiltrator Messenger, race=demon-loti
@@ -1963,7 +1963,7 @@ msgid ""
 "\n"
 "Thanks to the feathered wings on their backs, they can travel much faster through difficult terrains than others."
 msgstr ""
-"Les dieux sont des êtres légendaires vivants de la vénération des humains. Il sont très puissant et habituellement hors de portée mais, parfois, même les dieux donnent naissance à des enfants avec les humains. Leurs enfants conservent une partie de leur pouvoir, mais celui-ci s'amoindrit avec les générations. Cependant, la magie branche sacerdotal peut le réveiller, augmentant grandement les pouvoirs de Lumière dans son corps, permettant au Mage Blanc de devenir beaucoup plus exalté qu'il n'aurait pu l'espérer.\n"
+"Les dieux sont des êtres légendaires vivants de la vénération des humains. Ils sont très puissants et habituellement hors de portée mais, parfois, même les dieux donnent naissance à des enfants avec les humains. Leurs enfants conservent une partie de leur pouvoir, mais celui-ci s'amoindrit avec les générations. Cependant, la magie branche sacerdotal peut le réveiller, augmentant grandement les pouvoirs de Lumière dans son corps, permettant au Mage Blanc de devenir beaucoup plus exalté qu'il n'aurait pu l'espérer.\n"
 "\n"
 "Grâce à aux ailes de plumes dans leur dos, ils peuvent voyager plus rapidement sur les terrains difficiles que les autres."
 
@@ -2031,7 +2031,7 @@ msgstr "capable de faire ressentir plus fort leur culpabilité aux ennemis (-16%
 #: .\units\Celestial_Messenger.cfg:632
 #: .\units\mainline\Diviner.cfg:141
 msgid "making enemies' sins burn them from inside (-16 enemy heal)"
-msgstr "faire que les péchés de ennemis les brûlent de l'intérieur (16 PV de dégats)"
+msgstr "faire que les péchés de ennemis les brûlent de l'intérieur (16 PV de dégâts)"
 
 #. [advancement], id=aura_illuminate
 #: .\units\Celestial_Messenger.cfg:648
@@ -2061,12 +2061,12 @@ msgid ""
 "This unit is highly defensive and focused on counterattacks, not on damage.\n"
 "Advancements are defense-oriented, this unit's potential in avoiding hits is the greatest of all units."
 msgstr ""
-"Après des centaines de batailles et de duels, le survivant apprend que la victoire n'est pas aussi importante que la survie. Le meilleur guerrier n'est pas celui qui tue le plus d'ennemis mais celui qui survit au plus de batailles. Même avec moins de mises à mort par bataille, celui qui vit plus longtemps tuera éventuellement plus d'ennemis que les guerriers qui tuent les enemeis en nombre. Et le secret de la survie est une bonne défense. Même en duel, le gagnant est celui qui ne se fait pas toucher, pas celui qui frappe le mieux. \n"
+"Après des centaines de batailles et de duels, le survivant apprend que la victoire n'est pas aussi importante que la survie. Le meilleur guerrier n'est pas celui qui tue le plus d'ennemis mais celui qui survit au plus de batailles. Même avec moins de mises à mort par bataille, celui qui vit plus longtemps tuera éventuellement plus d'ennemis que les guerriers qui tuent les ennemis en nombre. Et le secret de la survie est une bonne défense. Même en duel, le gagnant est celui qui ne se fait pas toucher, pas celui qui frappe le mieux. \n"
 "\n"
-"Ceux qui comprennent cette règle apprennent à ce défendre extrêùent bien et deviennent tellement légendaires en duel que même les rois les nomment leurs champions en différents occasions, telles que le jugement par les armes. Parfois ils s'adaptent même au port d'une armure légère pour se protéger. \n"
+"Ceux qui comprennent cette règle apprennent à se défendre extrêmement bien et deviennent tellement légendaires en duel que même les rois les nomment leurs champions en différents occasions, telles que le jugement par les armes. Parfois ils s'adaptent même au port d'une armure légère pour se protéger. \n"
 "\n"
 "Note de jouabilité : \n"
-"Cette unité est hautement défensive et se concentre sur les contre-attaques, pas les dégats. \n"
+"Cette unité est hautement défensive et se concentre sur les contre-attaques, pas les dégâts. \n"
 "Les avancements sont orientées vers la défense, le potentiel de cette unité d'éviter les coups est le plus grand entre toutes les unités. "
 
 #. [advancement], id=block
@@ -2170,7 +2170,7 @@ msgstr "Les actes audacieux des cavaliers sont connus, but seulement certains d'
 #. [attack], type=fire, range=melee
 #: .\units\Chaos_Rider.cfg:44
 msgid "flamesword"
-msgstr "épée enflamée"
+msgstr "épée enflammée"
 
 #. [attack], type=impact, range=melee
 #: .\units\Chaos_Rider.cfg:53
@@ -2197,7 +2197,7 @@ msgstr "capable de toucher encore plus d'ennemis avec la boule de feu"
 #: .\units\Chaos_Rider.cfg:232
 #: .\units\Chaos_Rider.cfg:253
 msgid "dealing more damage with burning aura"
-msgstr "infliger plus e dégats avec l'aura brûlante"
+msgstr "infliger plus de dégâts avec l'aura brûlante"
 
 #. [advancement], id=firecast
 #: .\units\Chaos_Rider.cfg:274
@@ -2222,14 +2222,14 @@ msgstr "aspiration d'âme"
 #. [advancement], id=claws2
 #: .\units\Dark_Shade.cfg:231
 msgid "clawing better"
-msgstr "griffer mieux"
+msgstr "mieux griffer"
 
 #. [advancement], id=claws2-backstab
 #. [advancement], id=claws3-backstab
 #: .\units\Dark_Shade.cfg:250
 #: .\units\Dark_Shade.cfg:268
 msgid "backstabbing better"
-msgstr "frapper mieux dans le dos"
+msgstr "mieuxfrapper dans le dos"
 
 #. [advancement], id=sip3
 #: .\units\Dark_Shade.cfg:285
@@ -2321,7 +2321,7 @@ msgstr "Demiliche"
 #. [unit_type], id=Demilich LotI, race=undead
 #: .\units\Demilich.cfg:19
 msgid "Some liches are less than pleased with their frail skeletal body and experiment with ghosts to keep their ethereal enough to protect themselves from attack. Their ultimate goal is to look like the people they once were. This is a specimen of one that hasn't succeeded yet."
-msgstr "Certaines liches sont moins que satisfaites de leur frêle corps squeletique et expérimentent avec des fantômes afin de conserver le leur suffisament éthéré pour se protéger des attaques. Leur but ultime est de ressembler à la personne qu'ils furent. Ceci est un specimen d'une qui n'a pas encore réussi complètement."
+msgstr "Certaines liches sont moins que satisfaites de leur frêle corps squelettique et expérimentent avec des fantômes afin de conserver le leur suffisamment éthéré pour se protéger des attaques. Leur but ultime est de ressembler à la personne qu'ils furent. Ceci est un spécimen d'une qui n'a pas encore réussi complètement."
 
 #. [advancement], id=armour
 #: .\units\Demilich.cfg:248
@@ -2379,7 +2379,7 @@ msgstr "Chevaucheur de Dragon"
 #. [unit_type], id=Dragon Rider LotI, race=human
 #: .\units\Dragon_Rider.cfg:45
 msgid "The greatest elite of human warriors is sometimes invited to join a special order, the Dragon Riders. Relatively unknown to the world, they managed to control the mightiest creatures of the world. They appear when the world is in danger."
-msgstr "La haute élite des guerriers humains est parfois invitée à rejoindre un ordre spécial, les Chevaucheurs de Dragon. Relativement inconnu du monde, ils arrivent à controller les créatures les plus majestueuses de celui-ci. Ils apparaiseent lorsque le monde est en danger."
+msgstr "La haute élite des guerriers humains est parfois invitée à rejoindre un ordre spécial, les Chevaucheurs de Dragon. Relativement inconnu du monde, ils arrivent à contrôler les créatures les plus majestueuses de celui-ci. Ils apparaissent lorsque le monde est en danger."
 
 #. [advancement], id=bite-drain
 #: .\units\Dragon_Rider.cfg:254
@@ -2393,7 +2393,7 @@ msgstr "capable d'ordonner au dragon de manger des morceaux de viande fraîcheme
 #: .\units\Prophet.cfg:332
 #: .\units\mainline\Cataphract.cfg:19
 msgid "charging more powerfully with lance (2.5 times more damage)"
-msgstr "charger plus puissamment avec la lance (2,5 fois plus de dégats)"
+msgstr "charger plus puissamment avec la lance (2,5 fois plus de dégâts)"
 
 #. [advancement], id=lance4
 #: .\units\Dragon_Rider.cfg:291
@@ -2402,7 +2402,7 @@ msgstr "charger plus puissamment avec la lance (2,5 fois plus de dégats)"
 #: .\units\Prophet.cfg:351
 #: .\units\mainline\Cataphract.cfg:38
 msgid "charging even more powerfully with the lance (3 times more damage)"
-msgstr "charger encore plus puissamment avec la lance (3 fois plus de dégats)"
+msgstr "charger encore plus puissamment avec la lance (3 fois plus de dégâts)"
 
 #. [advancement], id=fire-incinerate
 #: .\units\Dragon_Rider.cfg:310
@@ -2457,12 +2457,12 @@ msgstr "Magicien Dueliste"
 #. [unit_type], id=Duelist Wizard LotI, race=human
 #: .\units\Duelist_Wizard.cfg:19
 msgid "Duelist Wizards are a rare group of mages, who instead of studying magic deeper and deeper decided to start using it to defeat other mages. The main motivation of this was of course the desire to get higher in ranks among other magi, who usually underestimate them because of their weaker knowledge of magical theories. Their philosophy is not based on the seek of knowledge, but on the desire to be stronger than other magi."
-msgstr "Les Magiciens Duellistes sont un rare groupe de mages qui, au lieu d'étudier la magie de plus en plus profondement, ont décidé de commencer à l'utiliser pour vaincre d'autres mages. La motivation principale de tout cela était bien évidemment de monter en rang par rapport aux autres mages, qui les sous-estimaient habituellement à cause de leur connaissance moindre des théories magiques. Leur philosophie n'est pas basée sur la quête de connaissance, mais sur le désir d'être plus fort que les autres mages."
+msgstr "Les Magiciens Duellistes sont un rare groupe de mages qui, au lieu d'étudier la magie de plus en plus profondément, ont décidé de commencer à l'utiliser pour vaincre d'autres mages. La motivation principale de tout cela était bien évidemment de monter en rang par rapport aux autres mages, qui les sous-estimaient habituellement à cause de leur connaissance moindre des théories magiques. Leur philosophie n'est pas basée sur la quête de connaissance, mais sur le désir d'être plus fort que les autres mages."
 
 #. [special_note]
 #: .\units\Duelist_Wizard.cfg:21
 msgid "SPECIAL_NOTE^ Duelist Wizards are well-attuned to their magical natures and are highly resistant to non-physical damage."
-msgstr "SPECIAL_NOTE^ Les Magiciens Duelistes sont bien accordés à leur nature magique et hautement résistants aux dégats non-physiques. "
+msgstr "SPECIAL_NOTE^ Les Magiciens Duellistes sont bien accordés à leur nature magique et hautement résistants aux dégâts non-physiques. "
 
 #. [attack], type=fire, range=ranged
 #: .\units\Duelist_Wizard.cfg:117
@@ -2477,12 +2477,12 @@ msgstr "Magicienne Duelliste"
 #. [advancement], id=retribution
 #: .\units\Duelist_Wizard.cfg:459
 msgid "able to return 2 pierce damage to every attacker"
-msgstr "capable de retourner 2 dégats perforants à chaque attaquant"
+msgstr "capable de retourner 2 dégâts perforants à chaque attaquant"
 
 #. [advancement], id=retribution2
 #: .\units\Duelist_Wizard.cfg:474
 msgid "able to return a part of damage to the attacker"
-msgstr "capable de retourner une partie des dégats à l'attaquant"
+msgstr "capable de retourner une partie des dégâts à l'attaquant"
 
 #. [advancement], id=absorb1
 #: .\units\Duelist_Wizard.cfg:490
@@ -2511,7 +2511,7 @@ msgstr "Duc"
 #. [unit_type], id=Duke LotI, race=human, gender=male
 #: .\units\Duke.cfg:34
 msgid "If those who have earned the title of Grand Marshal are fearsome, those leaders of battle known as Dukes make them seem like lowly corporals. Few other commanders leave such a great mark on battlefield and state alike, as the sheer strategic prowess of the Duke inevitably carries over into political life. Though some may best him in single combat, few have ever triumphed over a Duke in charge of a full army; not only can he exhort those in his command to greater efficiency as a unit, his mere presence is enough to stir his troops to rash death-or-glory charges against the enemy."
-msgstr "Si ceux qui ont gagné le titre de Maréchal sont redoutable, ces commandants de guerre connus en tant que Ducs les font sembler de piètres caporals. Peu d'autres commandants laissent une telle marque sur le champ de bataille et l'état à la fois, puisque les pures prouesses stratégiques du Duc s'en ressentent inévitablement sur la vie politique. Bien que certains puissent le surpasser en combat singulier, peu ont jamais triomphé d'un Duc en charge d'une armée entière; non content d'exhorter ceux sous son commandement à une plus grande efficacité en tant qu'individu, sa simple présence suffit à exciter ses troupes à charges kamikazes irréfléchies contre l'ennemi. "
+msgstr "Si ceux qui ont gagné le titre de Maréchal sont redoutable, ces commandants de guerre connus en tant que Ducs les font sembler de piètres caporaux. Peu d'autres commandants laissent une telle marque sur le champ de bataille et l'état à la fois, puisque les pures prouesses stratégiques du Duc s'en ressentent inévitablement sur la vie politique. Bien que certains puissent le surpasser en combat singulier, peu ont jamais triomphé d'un Duc en charge d'une armée entière ; non content d'exhorter ceux sous son commandement à une plus grande efficacité en tant qu'individu, sa simple présence suffit à exciter ses troupes à charges kamikazes irréfléchies contre l'ennemi. "
 
 #. [advancement], id=leadership
 #. [advancement], id=leadership3
@@ -2551,7 +2551,7 @@ msgstr "Rageur de Bataille Nain"
 #. [unit_type], id=Dwarvish Battlerager LotI, race=dwarf
 #: .\units\Dwarvish_Battlerager.cfg:18
 msgid "Dwarvish Lords are always thinking about ways to make their army more powerful. One of their frequent decisions is that Berserkers, a rare caste of Dwarves, who work themselves into a towering rage before combat, disdain all notion of defence, thinking only of the unrelenting assaults for which they are legendary, should wear armours. Berserkers usually refuse, because armour would prevent them from attacking as strongly as possible. Sometimes a cunning Dwarvish Lord decides to forge an armour to appeal to them. These armours are black, heavy, and there is a lot of spikes on them, that attires the attention of any Berserker. Clad in a spiky armour, a Berserker becomes a Battlerager, an even more scary warrior than Berserkers."
-msgstr "Les Seigneurs Nains pensent constamment à des moyens de rendre leur armée plus puissante. Une de leur décision fréquente est que les Berserkers, une rare caste de Nains qui se poussent à une colère noire avant la bataille, nient toute notion de défense et pensent uniquement aux assauts acharnés pour lequels ils sont légendaires, devraient porter des armures. Les Berserkers refusent habituellement, puisque les armures les empêcheraient d'attaquer aussi forts que possible. Parfois, un Seigneur Nain rusé décide de forger une armure à leur goût. Ces armures sont noires, lourdes, et il y a beaucoup de pics dessus, ce qui attire l'attention de n'importe quel Berserker. Engoncés dans une armure piquante, un Berserker devient un Rageur de Bataille, un guerrier encore plus terrifiant que les Berserkers."
+msgstr "Les Seigneurs Nains pensent constamment à des moyens de rendre leur armée plus puissante. Une de leur décision fréquente est que les Berserkers, une rare caste de Nains qui se poussent à une colère noire avant la bataille, nient toute notion de défense et pensent uniquement aux assauts acharnés pour lesquels ils sont légendaires, devraient porter des armures. Les Berserkers refusent habituellement, puisque les armures les empêcheraient d'attaquer aussi forts que possible. Parfois, un Seigneur Nain rusé décide de forger une armure à leur goût. Ces armures sont noires, lourdes, et il y a beaucoup de pics dessus, ce qui attire l'attention de n'importe quel Berserker. Engoncés dans une armure piquante, un Berserker devient un Rageur de Bataille, un guerrier encore plus terrifiant que les Berserkers."
 
 #. [advancement], id=armour
 #: .\units\Dwarvish_Battlerager.cfg:103
@@ -2603,7 +2603,7 @@ msgstr "Protecteur Nain"
 #. [unit_type], id=Dwarvish Protector LotI, race=dwarf
 #: .\units\Dwarvish_Protector.cfg:18
 msgid "Dwarvish Protectors are the hardiest from all dwarves. A wall of Dwarvish Protectors can resist enemy blows better than a stone wall - and is much more dangerous."
-msgstr "Les Protecteurs Nains sont les plus durs de tous les nains. Un mur de Protecteur Nain peux resister aux coups ennemis mieux qu'un mur de pierre - et est beaucoup plus dangereux."
+msgstr "Les Protecteurs Nains sont les plus durs de tous les nains. Un mur de Protecteur Nain peut résister aux coups ennemis mieux qu'un mur de pierre - et est beaucoup plus dangereux."
 
 #. [advancement], id=charge
 #: .\units\Dwarvish_Protector.cfg:154
@@ -2632,7 +2632,7 @@ msgstr "Technocrate Nain"
 #. [unit_type], id=Dwarvish Technocrat LotI, race=dwarf
 #: .\units\Dwarvish_Technocrat.cfg:18
 msgid "Dwarves always have some secrets they never tell even to their closest friends if they are not dwarves too. One of them is also the secret of their technical invention, the thunderstick. Although it is a very powerful weapon itself, they still seek to improve it and make it even more powerful."
-msgstr "Les nains ont toujours quelques secrets qu'il ne révèleraient même pas à leurs plus proches amis s'ils ne sont pas nains. L'un d'eux est le secret de leur invention technique, le bâton de tonnerre. Bien qu'elle soit une arme très puissante en elle-même, ils essayent toujours de l'améliorer et de la rendre encore plus puissante. "
+msgstr "Les nains ont toujours quelques secrets qu'ils ne révèleraient même pas à leurs plus proches amis s'ils ne sont pas nains. L'un d'eux est le secret de leur invention technique, le bâton de tonnerre. Bien qu'elle soit une arme très puissante en elle-même, ils essayent toujours de l'améliorer et de la rendre encore plus puissante. "
 
 #. [advancement], id=dagger2
 #: .\units\Dwarvish_Technocrat.cfg:204
@@ -2653,7 +2653,7 @@ msgstr "tempête de balles"
 #. [advancement], id=blunderbuss
 #: .\units\Dwarvish_Technocrat.cfg:242
 msgid "more technically skilled, using a very precise gun (new attack)"
-msgstr "plus compétent techniquement, ulisant une arme à feu très précise (nouvelle attaque)"
+msgstr "plus compétent techniquement, utilisant une arme à feu très précise (nouvelle attaque)"
 
 #. [effect], apply_to=bonus_attack, range=ranged
 #: .\units\Dwarvish_Technocrat.cfg:249
@@ -2673,7 +2673,7 @@ msgstr "tirer des balles qui pénètrent mieux l'armure (+5% de pénétration du
 #. [unit_type], id=Elder Mage LotI, race=human, gender=female
 #: .\units\Elder_Mage.cfg:105
 msgid "Great Magi spread rumours that only several mages per century are given the title of a great mage, but the truth is quite different. They are speaking about Elder Magi, and misuse the similarity and the rarity of them. Among them, there is an even sparser number who, despite their blessed age, are more progressive than the younger professional fraternity. Elder Magi are the real masters of magic, the ones who make new spells and truly understand the arcane. Even if they are not trained for battle, their powerful magic can destroy most enemies before the need for quick reflexes comes."
-msgstr "Les Grands Mages répandent la rumeur que seuls quelques mages par siècle gagnent le titre de grand mage, mais la réalité est bien différente. Ils parlent des Mages Emérites, et abusent de la similarité et de la rareté de ceux-ci. Parmi eux, il y en a un nombre encore plus faible qui, malgré leur âge avancé, sont plus progressistes que la plus jeune fraternité professionnelle. Les Mages Emérites sont les vrais maitres de la magie, ceux qui créent de nouveaux sorts et comprennent vraiment les arcanes de la magie. Même s'ils ne sont pas entraînés pour le combat, leur puissantes magies peut détruire la plupart des ennemis avant que le besoin de réflexes rapides ne se fassent sentir."
+msgstr "Les Grands Mages répandent la rumeur que seuls quelques mages par siècle gagnent le titre de grand mage, mais la réalité est bien différente. Ils parlent des Mages Emérites, et abusent de la similarité et de la rareté de ceux-ci. Parmi eux, il y en a un nombre encore plus faible qui, malgré leur âge avancé, sont plus progressistes que la plus jeune fraternité professionnelle. Les Mages Emérites sont les vrais maitres de la magie, ceux qui créent de nouveaux sorts et comprennent vraiment les arcanes de la magie. Même s'ils ne sont pas entraînés pour le combat, leur puissante magie peut détruire la plupart des ennemis avant que le besoin de réflexes rapides ne se fassent sentir."
 
 #. [attack], type=arcane, range=ranged
 #: .\units\Elder_Mage.cfg:131
@@ -2707,7 +2707,7 @@ msgstr "mieux percer la résistance au feu de l'ennemi (5%)"
 #: .\units\Elder_Mage.cfg:700
 #: .\units\Infernal_Knight.cfg:180
 msgid "dealing damage to multiple enemies with fireball"
-msgstr "infliger des dégats à de multiples ennemis avec la boule de feu"
+msgstr "infliger des dégâts à de multiples ennemis avec la boule de feu"
 
 #. [advancement], id=arcane-penetrate
 #: .\units\Elder_Mage.cfg:718
@@ -2756,7 +2756,7 @@ msgstr "Assassin Elfe"
 #. [unit_type], id=Elvish Assassin LotI, race=elf
 #: .\units\Elvish_Assassin.cfg:19
 msgid "Unlike human assassins, elvish assassins are honoured warriors who have proven their incredible skill in archery by killing the enemy warband's leader just by shooting him from a distance, or even a whole enemy clump by covering them by a deadly arrow storm before they came to him. Even when cornered and forced to fight in melee range, they can defeat their enemies with trickery, without properly fighting them."
-msgstr "Contrairement aux assassins humains, les assassins elfes sont des guerriers honorés qui ont prouvé leur talent incroyable en tuant le commandant d'une troupe ennemie simplement en lui tirant dessus à distance, ou même un groupe entier d'ennemi en les couvrant d'une tempête de flèche avant qu'ils ne l'atteigne. Même encerclés et forcés de se battre au corps-à-corps, ils peuvent vaincre leurs ennemis par ruse, sans les combattre à proprement parler. "
+msgstr "Contrairement aux assassins humains, les assassins elfes sont des guerriers honorés qui ont prouvé leur talent incroyable en tuant le commandant d'une troupe ennemie simplement en lui tirant dessus à distance, ou même un groupe entier d'ennemi en les couvrant d'une tempête de flèche avant qu'ils ne l'atteignent. Même encerclés et forcés de se battre au corps-à-corps, ils peuvent vaincre leurs ennemis par ruse, sans les combattre à proprement parler. "
 
 #. [female]
 #: .\units\Elvish_Assassin.cfg:365
@@ -2782,7 +2782,7 @@ msgstr "Chevaucheur de Gryphon Elfe"
 #. [unit_type], id=Elvish Gryphon Rider LotI, race=elf	#The elf is important, not the bird. I want them to have ELVISH names.
 #: .\units\Elvish_Gryphon_Rider.cfg:20
 msgid "With enough skill in archery and horse riding, an elf can decide to ride giant birds instead of horses, gaining incredible mobility and an ability to shoot his foes from above, relatively protected from enemy blows."
-msgstr "Avec suffisament de compétences en archerie et en cavalerie, un elfe peut décider de chevaucher des oiseaux géants plutôt que des chevaux, gagnant une mobilité incroyable et la capacité de tirer sur ses ennemis par au-dessus, relativement protégé des coups ennemis."
+msgstr "Avec suffisamment de compétences en archerie et en cavalerie, un elfe peut décider de chevaucher des oiseaux géants plutôt que des chevaux, gagnant une mobilité incroyable et la capacité de tirer sur ses ennemis par au-dessus, relativement protégé des coups ennemis."
 
 #. [female]
 #: .\units\Elvish_Gryphon_Rider.cfg:223
@@ -2840,7 +2840,7 @@ msgstr "Juggernaut Elfe"
 #. [unit_type], id=Elvish Juggernaut LotI, race=elf
 #: .\units\Elvish_Juggernaut.cfg:19
 msgid "Elves are known to be excellent archers, but that is only because they prefer bows as primary weapons. They can be equally good with swords, but only a few elves develop this talent. They can whirl their swords in their hands like if they were just small sticks, but with the force of a furious storm, cutting their enemies asunder."
-msgstr "Les elfes sont connus pour être d'excellents archers, mais c'est uniquement car ils préfèrent l'arc en tant qu'arme principale. Ils peuvent être également bons avec les épées, mais seuls quelques elfes développent ce talent. Ils peuvent faire tournoyer leurs épées entre leurs mains comme si elles n'étaient que des petits batons, mais avec la puissance d'une tempête furieuse, découpant leurs ennemis en morceaux."
+msgstr "Les elfes sont connus pour être d'excellents archers, mais c'est uniquement car ils préfèrent l'arc en tant qu'arme principale. Ils peuvent être également bons avec les épées, mais seuls quelques elfes développent ce talent. Ils peuvent faire tournoyer leurs épées entre leurs mains comme si elles n'étaient que des petits bâtons, mais avec la puissance d'une tempête furieuse, découpant leurs ennemis en morceaux."
 
 #. [attack], type=blade, range=melee
 #: .\units\Elvish_Juggernaut.cfg:35
@@ -2884,7 +2884,7 @@ msgstr "frappe sinistre"
 #. [advancement], id=mayhem
 #: .\units\Elvish_Juggernaut.cfg:235
 msgid "able to maim enemies, lowering their damage temporarily (new attack)"
-msgstr "capable de mutiler les ennemis, diminuant temporairement leurs dégats (nouvelle attaque)"
+msgstr "capable de mutiler les ennemis, diminuant temporairement leurs dégâts (nouvelle attaque)"
 
 #. [effect], apply_to=bonus_attack, range=melee
 #. [dummy], id=mayhem_loti
@@ -2898,17 +2898,17 @@ msgstr "pagaille"
 #. [advancement], id=spinning-swords
 #: .\units\Elvish_Juggernaut.cfg:259
 msgid "dealing 12 damage to all adjacent enemies"
-msgstr "infliger 12 dégats à tous les ennemis adjacents"
+msgstr "infliger 12 dégâts à tous les ennemis adjacents"
 
 #. [advancement], id=spinning-swords2
 #: .\units\Elvish_Juggernaut.cfg:275
 msgid "dealing 24 damage to all adjacent enemies"
-msgstr "infliger 24 dégats à tous les ennemis adjacents"
+msgstr "infliger 24 dégâts à tous les ennemis adjacents"
 
 #. [advancement], id=spinning-swords3
 #: .\units\Elvish_Juggernaut.cfg:297
 msgid "dealing 32 damage to all adjacent enemies"
-msgstr "infliger 32 dégats à tous les ennemis adjacents"
+msgstr "infliger 32 dégâts à tous les ennemis adjacents"
 
 #. [advancement], id=regeneration1
 #: .\units\Elvish_Juggernaut.cfg:318
@@ -3027,7 +3027,7 @@ msgstr "Exterminateur"
 #. [unit_type], id=Exterminator LotI, race=human
 #: .\units\Exterminator.cfg:19
 msgid "Masters of the Assassins are almost always sent to slay their victims rather than to steal something. Their favourite technique is to stab enemies from behind with a dagger, but because not all murders can be done silently, they also practised standard combat, and carry a scythe they can wield with scary skill, that is particularly useful when surrounded. Deadly at night, exterminators are less able fighting under the sun."
-msgstr "Les maîtres assassins sont presque toujours envoyés pour tuer leurs victimes plutôt que pour voler quelque chose. Leur technique favorite est de frapper les ennemis par derrière avec une dague mais, parce que tous les meutres ne peuvent être exécutés silencieusement, ils pratiquent également le combat conventionnel, et portent une faux qu'ils peuvent manier avec un talent effrayant, qui est particulièrement utile lorsqu'encerclé. Mortels la nuit, les exterminateurs sont moins capable de se battre sous le soleil."
+msgstr "Les maîtres assassins sont presque toujours envoyés pour tuer leurs victimes plutôt que pour voler quelque chose. Leur technique favorite est de frapper les ennemis par derrière avec une dague mais, parce que tous les meurtres ne peuvent être exécutés silencieusement, ils pratiquent également le combat conventionnel, et portent une faux qu'ils peuvent manier avec un talent effrayant, qui est particulièrement utile lorsqu'encerclé. Mortels la nuit, les exterminateurs sont moins capables de se battre sous le soleil."
 
 #. [attack], type=blade, range=melee
 #: .\units\Exterminator.cfg:53
@@ -3065,7 +3065,7 @@ msgstr "frénésie meurtrière"
 #: .\units\Shadowalker.cfg:654
 #: .\units\mainline\Wayfarer.cfg:66
 msgid "able to perform a whirlwind attack (new attack)"
-msgstr "capable de réaliser une attaque tourbillon (nouvelle attaquae)"
+msgstr "capable de réaliser une attaque tourbillon (nouvelle attaque)"
 
 #. [advancement], id=nightstalk
 #: .\units\Exterminator.cfg:382
@@ -3106,7 +3106,7 @@ msgid ""
 msgstr ""
 "Les forestiers sont des gens qui ont abandonné la vie en commun, à la recherche de la solitude des espaces sauvages. Ils vivent dans des endroits où d'autres manqueraient de nourriture et d'abri, et aucun animal ne peut échapper à leur tir précis.\n"
 "\n"
-"A cause de leur solitude, ils manquent de relation avec les autres humains, et n'ont ainsi aucun problème à tuer tout ceux qu'ils n'aiment pas. Ce manque de compréhension peut être exploité par les bandits, qui les persuadent occasionnellement de rejoindre leur cause."
+"A cause de leur solitude, ils manquent de relation avec les autres humains, et n'ont ainsi aucun problème à tuer tous ceux qu'ils n'aiment pas. Ce manque de compréhension peut être exploité par les bandits, qui les persuadent occasionnellement de rejoindre leur cause."
 
 #. [advancement], id=reflect
 #: .\units\Forester.cfg:226
@@ -3186,7 +3186,7 @@ msgstr "Bannière de Guerre Gobelin"
 #. [unit_type], id=Goblin Warbanner LotI, race=goblin
 #: .\units\Goblin_Warbaner.cfg:19
 msgid "Some goblins, after surviving an improbably high number of fights, become experienced enough to lead other goblins to battle, or even weaker orcs. These goblins are no longer bullied by orcs, but still used to lead a tiring force."
-msgstr "Certains gobelins, après avec survecu à un nomber improbablement élevé de combats, deviennent suffisament expérimentés pour commander d'autres gobelins dans la bataille, voir même de faibles orcs. Ces gobelins ne sont plus maltraités par les orcs, mais toujours utilisés pour mener une force d'épuisement."
+msgstr "Certains gobelins, après avoir survécu à un nombre improbablement élevé de combats, deviennent suffisamment expérimentés pour commander d'autres gobelins dans la bataille, voir même de faibles orcs. Ces gobelins ne sont plus maltraités par les orcs, mais toujours utilisés pour mener une force d'épuisement."
 
 #. [advancement], id=javelin3
 #. [advancement], id=spear3
@@ -3195,7 +3195,7 @@ msgstr "Certains gobelins, après avec survecu à un nomber improbablement élev
 #: .\units\mainline\Javelineer.cfg:15
 #: .\units\mainline\Saurian_Javelineer.cfg:15
 msgid "throwing spears more precisely"
-msgstr "lancer des lances plus précisement"
+msgstr "lancer des lances plus précisément"
 
 #. [advancement], id=wardrums
 #: .\units\Goblin_Warbaner.cfg:228
@@ -3225,7 +3225,7 @@ msgstr "Les Chevaliers Sinistres sont des morts-vivants qui peuvent chevaucher u
 #. [advancement], id=lance-lurk
 #: .\units\Grim_Knight.cfg:146
 msgid "dealing double damage to enemies who have no adjacent allies"
-msgstr "infliger le double de dégats aux ennemis qui n'ont pas d'alliés adjacents"
+msgstr "infliger le double de dégâts aux ennemis qui n'ont pas d'alliés adjacents"
 
 #. [advancement], id=knockback
 #: .\units\Grim_Knight.cfg:202
@@ -3347,7 +3347,7 @@ msgstr "Chevalier Infernal"
 #. [unit_type], id=Infernal Knight LotI, race=undead
 #: .\units\Infernal_Knight.cfg:23
 msgid "Tales are told of the mightiest warriors and generals, who, cursed with hate and stung by betrayal, have experimented with demonic magic and returned back to this world as Infernal Knights. Wielding the same weapons as in life, they command both fire and the Undead in their quest for revenge."
-msgstr "Les légendes parlent de puissantsguerriers et généraux qui, corrompus par la haine et blessés par la trahison, ont expérimentés avec la magie démoniaque et sont revenus dans ce monde en tant que Chevalier Infernaux. Portant les même armes que de leur vivant, ils commandent tant le feu que les morts-vivants dans leur quête de revanche."
+msgstr "Les légendes parlent de puissants guerriers et généraux qui, corrompus par la haine et blessés par la trahison, ont expérimentés avec la magie démoniaque et sont revenus dans ce monde en tant que Chevalier Infernaux. Portant les mêmes armes que de leur vivant, ils commandent tant le feu que les morts-vivants dans leur quête de revanche."
 
 #. [advancement], id=firecast
 #: .\units\Infernal_Knight.cfg:161
@@ -3387,7 +3387,7 @@ msgstr "Chevalier Magicien"
 #: .\units\Knight_of_Magic.cfg:18
 #: .\units\Knight_of_Magic.cfg:141
 msgid "After heavy practice, sword mages slowly increase the number of pieces of metal they wear, and become more resilient. Also, their combat abilities increase greatly, and become feared for their versatile style of combat. But they can still keep on getting better, and their ambition and pride makes adjacent allies fight worse because of the envy."
-msgstr "Après une pratique intense, les mages épéistes augmente graduallement la quantité de pièces de métal qu'ils portent, et deviennent plus résistants. Leur abilité au combat augmente également grandement et ils deviennent redoutés pour leur style de combat versatile. Mais ils peuvent toujours continuer de s'améliorer et leur ambition et leur orgueil font que les alliés adjacents se battent moins bien à cause de la jalousie. "
+msgstr "Après une pratique intense, les mages épéistes augmente graduellement la quantité de pièces de métal qu'ils portent, et deviennent plus résistants. Leur compétence au combat augmente également grandement et ils deviennent redoutés pour leur style de combat versatile. Mais ils peuvent toujours continuer de s'améliorer et leur ambition et leur orgueil font que les alliés adjacents se battent moins bien à cause de la jalousie. "
 
 #. [female]
 #: .\units\Knight_of_Magic.cfg:126
@@ -3412,7 +3412,7 @@ msgstr "Chevalier Lunatique"
 #. [unit_type], id=Lunatic Knight LotI, race=human
 #: .\units\Lunatic_Knight.cfg:19
 msgid "Lunatic knights are ones of the most zealous warriors a warlord might employ. The reason why they fight is neither glory nor gold. They enjoy the thrill of battles, and that motivates them to join armed conflicts. In battle, they are feared adversaries, their fervour, speed and strength are a huge threat for anyone. They usually die before they realise that Lunatic Knights are not quite well protected, and can fall whenever their charge fails to defeat their target."
-msgstr "Les Chevaliers Lunatiques sont parmi les guerriers les plus zelés qu'un seigneur de guerre puisse employer. Leur raison de combattre n'est ni la gloire, ni l'or. Ils apprécient le frisson des batailles et cela les motive à rejoindre les conflits armés. Dans la bataille, ce sont des adversaires redoutés, leur ferveur, vitesse et force et une grande menace pour n'importe qui. Ceux-ci meurent généralement avant de réaliser que les Chevaliers Lunatiques ne sont pas bien protégés et peuvent tomber aussitôt que leur charge échoue à défaire leur cible."
+msgstr "Les Chevaliers Lunatiques sont parmi les guerriers les plus zélés qu'un seigneur de guerre puisse employer. Leur raison de combattre n'est ni la gloire, ni l'or. Ils apprécient le frisson des batailles et cela les motive à rejoindre les conflits armés. Dans la bataille, ce sont des adversaires redoutés, leur ferveur, vitesse et force et une grande menace pour n'importe qui. Ceux-ci meurent généralement avant de réaliser que les Chevaliers Lunatiques ne sont pas bien protégés et peuvent tomber aussitôt que leur charge échoue à défaire leur cible."
 
 #. [advancement], id=penetrate2
 #: .\units\Lunatic_Knight.cfg:169
@@ -3434,7 +3434,7 @@ msgstr "Monstruosité"
 #. [unit_type], id=Monstrosity LotI, race=undead
 #: .\units\Monstrosity.cfg:21
 msgid "When a Walking Corpse kills a victim and reanimates it to unlife, it also drains a part of its soul. This rarely has an effect, but sometimes, when much of the flesh has rotten away already, this accumulated soul energy reshapes the corpse into a horrid, tentaculous form with bones protruding from it that floats around, scaring everything."
-msgstr "Quand un Zombi tue sa victime et la réanime à la non-vie, il draine également une partie de son âme. Cela a rarement un effet mais farfois, quand la plupart de la chair a déjà pourri, cette énergie spirituelle accumulée remodèle le cadavre en une forme attroce et tentaculaire avec des os saillant flottant autour, terrifiant toute chose."
+msgstr "Quand un Zombi tue sa victime et la réanime à la non-vie, il draine également une partie de son âme. Cela a rarement un effet mais parfois, quand la plupart de la chair a déjà pourri, cette énergie spirituelle accumulée remodèle le cadavre en une forme atroce et tentaculaire avec des os saillant flottant autour, terrifiant toute chose."
 
 #. [advancement], id=soulless
 #: .\units\Monstrosity.cfg:130
@@ -3478,7 +3478,7 @@ msgstr "Soudard Orc"
 #. [unit_type], id=Orcish Strafer LotI, race=orc
 #: .\units\Orcish_Strafer.cfg:18
 msgid "Orcs are generally believed to be simple-minded and unable even to manufacture their crossbows. But it is wrong. The intellect of orcs is not inferior by any means, but they usually prefer not to use it. But competition and battle prowess is usually far the greatest motivation, and if better gear looks like a possibility to get stronger, they start thinking about improvements. One of their inventions is the slurbow, some orcs get them from plunder, some manufacture them themselves. However, even slurbows are not the best, and some creative orcs in times of peace manage to improve it so that it can be operated with a single hand. This way, they can carry two ranged weapons into battle, and devastate most enemies with their deadly and quick shots."
-msgstr "Les orcs sont généralement considérés comme simples d'esprit et même incapable de fabriquer leurs arbalètes. Mais cela est faux. L'intellect des orcs n'est inférieur en aucun point, mais ils préfèrent généralement ne pas l'utiliser. Mais la compétion et les prouesses au combat sont généralement de loin la plus grande motivation et, si un meilleur équipement semble être un possibilité pour devenir plus fort, ils commencent à penser à des améliorations. Une de leur invention est l'arbalète à canon, certains orcs les obtiennent de pillage, certains les fabriquent eux-même. Cependant, même les arbalètes à canon ne sont pas le mieux qui existe et certains orcs créatifs en temps de paix ont réussi à l'améliorer afin qu'elle puisse être opérée d'une seule main. Ainsi, ils peuvent porter deux armes à distance au combat at devaster la plupart des ennemis avec leurs tirs mortels et rapides."
+msgstr "Les orcs sont généralement considérés comme simples d'esprit et même incapable de fabriquer leurs arbalètes. Mais cela est faux. L'intellect des orcs n'est inférieur en aucun point, mais ils préfèrent généralement ne pas l'utiliser. Mais la compétition et les prouesses au combat sont généralement de loin la plus grande motivation et, si un meilleur équipement semble être une possibilité pour devenir plus fort, ils commencent à penser à des améliorations. Une de leur invention est l'arbalète à canon, certains orcs les obtiennent de pillage, certains les fabriquent eux-mêmes. Cependant, même les arbalètes à canon ne sont pas le mieux qui existe et certains orcs créatifs en temps de paix ont réussi à l'améliorer afin qu'elle puisse être opérée d'une seule main. Ainsi, ils peuvent porter deux armes à distance au combat et dévaster la plupart des ennemis avec leurs tirs mortels et rapides."
 
 #. [advancement], id=xbow-marksman
 #: .\units\Orcish_Strafer.cfg:324
@@ -3553,7 +3553,7 @@ msgstr "Phantôme"
 #. [unit_type], id=Phantom LotI, race=undead
 #: .\units\Phantom.cfg:41
 msgid "Undead lords sometimes figure out a way to make their deathblades fully use their potential. They remove their legs, replacing them with a ghostly tail allowing them to float and spin as they want. They also add them an additional pair of arms, to make these minions more destructive. Phantoms are, however, quite vulnerable."
-msgstr "Les seigneurs morts-vivants trouvent parfois un moyen de permettre à leurs mortelames d'utiliser leur plein potentiel. Ils suppriment leurs jambes, les remplacant par une queue fantomatique leur permettant de flotter et pivoter comme elles le veulent. Ils leur ajoutent également une paire de bras additionelle pour rendre ces sous-fifres plus destructeurs. Les Phantom sont par contre assez vulnérables. "
+msgstr "Les seigneurs morts-vivants trouvent parfois un moyen de permettre à leurs mortelames d'utiliser leur plein potentiel. Ils suppriment leurs jambes, les remplaçant par une queue fantomatique leur permettant de flotter et pivoter comme elles le veulent. Ils leur ajoutent également une paire de bras additionnelle pour rendre ces sous-fifres plus destructeurs. Les Phantom sont par contre assez vulnérables. "
 
 #. [advancement], id=recall
 #: .\units\Phantom.cfg:237
@@ -3573,7 +3573,7 @@ msgstr "Maître du Pilum"
 #. [unit_type], id=Pilum Master LotI, race=human
 #: .\units\Pilum_Master.cfg:18
 msgid "Some javelineers came to an incredible skill with javelins, and improved their javelins into pilums. These weapons are hard to use, but they can deal heavy damages to anyone before they even come close enough to hit, even if they are attacked. Although many soldiers consider their weapons obsolete, they wield them proudly, because unlike swords or bows, pilums can be used both in melee and ranged combat."
-msgstr "Certains javelinistes atteignent un talent incroyable avec les javelots et améliorent leurs javelots en pilums. Ces armes sont difficiles à utiliser mais peuvent infliger des graves dégats à quiconque avant même qu'ils ne soient à porter de frappe, même en attaque. Bien que beaucoup de soldats considèrent leurs armes obsolètes, ils les portent fièrement car, contrairement aux épées ou arcs, les pilums peuvent être utilisés à la fois au corsp-à-corps et à distance. "
+msgstr "Certains javelinistes atteignent un talent incroyable avec les javelots et améliorent leurs javelots en pilums. Ces armes sont difficiles à utiliser mais peuvent infliger des graves dégâts à quiconque avant même qu'ils ne soient à porter de frappe, même en attaque. Bien que beaucoup de soldats considèrent leurs armes obsolètes, ils les portent fièrement car, contrairement aux épées ou arcs, les pilums peuvent être utilisés à la fois au corps-à-corps et à distance. "
 
 #. [attack], type=pierce, range=melee
 #. [attack], type=pierce, range=ranged
@@ -3632,7 +3632,7 @@ msgstr "Prédateur"
 #. [unit_type], id=Predator LotI, race=human
 #: .\units\Predator.cfg:19
 msgid "Master huntsmen often get to like hunting more than anything else. Their deadly passion guides them, and they care only a little if their prey is human or animal. These predators may attack anything they spot, if it is not too numerous. Provided that one has enough guards around, it is possible to parlay with them, or even to employ them."
-msgstr "Les maîtres traqueurs finissent souvent par préférer la chasse à toute autre chose. Leur passion meutrière les guides et ils ne se soucient peu de savoir si leur proie est humaine ou animale. Ces prédateurs peuvent attaquer n'importe quoi à vue, s'ils ne sont pas trop nombreux. A condition d'avoir assez de gardes autours, il est possible de parlementer avec eux, voir même de les employer."
+msgstr "Les maîtres traqueurs finissent souvent par préférer la chasse à toute autre chose. Leur passion meurtrière les guides et ils ne se soucient peu de savoir si leur proie est humaine ou animale. Ces prédateurs peuvent attaquer n'importe quoi à vue, s'ils ne sont pas trop nombreux. A condition d'avoir assez de gardes autours, il est possible de parlementer avec eux, voir même de les employer."
 
 #. [advancement], id=bow-precise2
 #: .\units\Predator.cfg:177
@@ -3642,42 +3642,42 @@ msgstr "tirer incroyablement précisement"
 #. [advancement], id=execution
 #: .\units\Predator.cfg:197
 msgid "able to deal heavy damage with a single shot (new attack)"
-msgstr "capable d'infliger de gros dégats en un tir (nouvelle attaque)"
+msgstr "capable d'infliger de gros dégâts en un tir (nouvelle attaque)"
 
 #. [advancement], id=bow-hunting-humans
 #: .\units\Predator.cfg:216
 msgid "very good at slaying humans"
-msgstr "très doué pour abbatre les humains"
+msgstr "très doué pour abattre les humains"
 
 #. [advancement], id=bow-hunting-imps
 #: .\units\Predator.cfg:234
 msgid "very good at slaying undead"
-msgstr "très doué pour abbatre les morts-vivants"
+msgstr "très doué pour abattre les morts-vivants"
 
 #. [advancement], id=bow-hunting-orcs
 #: .\units\Predator.cfg:252
 msgid "very good at slaying orcs"
-msgstr "très doué pour abbatre les orcs"
+msgstr "très doué pour abattre les orcs"
 
 #. [advancement], id=bow-hunting-elves
 #: .\units\Predator.cfg:270
 msgid "very good at slaying elves"
-msgstr "très doué pour abbatre les elfes"
+msgstr "très doué pour abattre les elfes"
 
 #. [advancement], id=bow-hunting-drakes
 #: .\units\Predator.cfg:288
 msgid "very good at slaying dragons"
-msgstr "très doué pour abbatre les dragons"
+msgstr "très doué pour abattre les dragons"
 
 #. [advancement], id=bow-hunting-imps
 #: .\units\Predator.cfg:306
 msgid "very good at slaying imps"
-msgstr "très doué pour abbatre les diablotins"
+msgstr "très doué pour abattre les diablotins"
 
 #. [advancement], id=bow-hunting-demons
 #: .\units\Predator.cfg:324
 msgid "very good at slaying demons"
-msgstr "très doué pour abbatre les démons"
+msgstr "très doué pour abattre les démons"
 
 #. [unit_type], id=Prophet LotI, race=human
 #. [unit_type], id=Demon Infiltrator Prophet, race=demon-loti
@@ -3689,7 +3689,7 @@ msgstr "Prophète"
 #. [unit_type], id=Prophet LotI, race=human
 #: .\units\Prophet.cfg:20
 msgid "Formerly either Paladins who decided to expand their knowledge of white magic or Magi of Light who decided that evil has to be defeated also by weapons of war, Prophets are the pious knights who both care about destroying the evil and about helping any righteous person."
-msgstr "Autrefois soit des Paladins qui décidèrent d'étendre leur savoir à la magie blanche, soit des Mages de Lumière qui décidèrent que le mal devait être vaincu également par des armes de guere, les Prophètes sont des chevaliers pieux qui se préoccupent à la fois de détruire le mal et de venir en aide à tout personne vertueuse."
+msgstr "Autrefois soit des Paladins qui décidèrent d'étendre leur savoir à la magie blanche, soit des Mages de Lumière qui décidèrent que le mal devait être vaincu également par des armes de guerre, les Prophètes sont des chevaliers pieux qui se préoccupent à la fois de détruire le mal et de venir en aide à tout personne vertueuse."
 
 #. [female]
 #: .\units\Prophet.cfg:222
@@ -3700,17 +3700,17 @@ msgstr "Prophétesse"
 #. [advancement], id=shield
 #: .\units\Prophet.cfg:414
 msgid "able to make allies resist damage better (8% to resistances)"
-msgstr "capable de faire mieux résister les alliés aux dégats (8% de résistance supplémentaire)"
+msgstr "capable de faire mieux résister les alliés aux dégâts (8% de résistance supplémentaire)"
 
 #. [advancement], id=shield2
 #: .\units\Prophet.cfg:430
 msgid "able to make allies resist damage better (12% to resistances)"
-msgstr "capable de faire mieux résister les alliés aux dégats (12% de résistance supplémentaire)"
+msgstr "capable de faire mieux résister les alliés aux dégâts (12% de résistance supplémentaire)"
 
 #. [advancement], id=shield3
 #: .\units\Prophet.cfg:452
 msgid "able to make allies resist damage better (16% to resistances)"
-msgstr "capable de faire mieux résister les alliés aux dégats (16% de résistance supplémentaire)"
+msgstr "capable de faire mieux résister les alliés aux dégâts (16% de résistance supplémentaire)"
 
 #. [unit_type], id=Reaper LotI, race=undead
 #: .\units\Reaper.cfg:4
@@ -3720,7 +3720,7 @@ msgstr "Faucheur"
 #. [unit_type], id=Reaper LotI, race=undead
 #: .\units\Reaper.cfg:18
 msgid "Reapers are abominations, brought from the world of the dead into our world, but maintaining connections to their world to drain excessive amounts of power from it, longing for nothing else but bringing as many souls into the world of the dead. In most cases, they are a creation of a necromancer, forcing a spirit to become a reaper, manipulating it to do what he wants."
-msgstr "Les Faucheurs sont des abominations, tirés du monde des morts dans notre monde mais maintenant une connection avec leur monde pour drainer des quantités excessives de pouvoir de celui-ci, n'ayant envie de rien d'autre que d'envoyer autant d'âmes que possible au royaume des morts. Dans la pluaprt des cas, ils sont la création d'un nécromancien, forçant un esprit à devenir un faucheur, le manipulant à ses fins."
+msgstr "Les Faucheurs sont des abominations, tirés du monde des morts dans notre monde mais maintenant une connexion avec leur monde pour drainer des quantités excessives de pouvoir de celui-ci, n'ayant envie de rien d'autre que d'envoyer autant d'âmes que possible au royaume des morts. Dans la plupart des cas, ils sont la création d'un nécromancien, forçant un esprit à devenir un faucheur, le manipulant à ses fins."
 
 #. [advancement], id=wail-uncounterable
 #: .\units\Reaper.cfg:214
@@ -3755,7 +3755,7 @@ msgstr "Maître de la Faux"
 #. [unit_type], id=Scythemaster LotI, race=human
 #: .\units\Scythemaster.cfg:18
 msgid "The greatest weapon masters will eventually come to master scythes, whose dual-wielding is the most destructive possibility ever."
-msgstr "Les plus grands maîtres d'armes en viennent éventuellement à maîtriser les faux, dont la prise à deux mains est la possibilité la plus destructice existante. "
+msgstr "Les plus grands maîtres d'armes en viennent éventuellement à maîtriser les faux, dont la prise à deux mains est la possibilité la plus destructrice existante. "
 
 #. [attack], type=pierce, range=melee
 #: .\units\Scythemaster.cfg:40
@@ -3783,7 +3783,7 @@ msgstr "Voyante Elfe"
 #. [unit_type], id=Elvish Seer LotI, race=elf, gender=female
 #: .\units\Seer.cfg:20
 msgid "Sometimes, an elf can get so close to the faerie world, that it grants her a knowledge all the other beings never even dreamed about. This allows her to be both a good healer and a powerful spell-caster."
-msgstr "Parfois, une elfe peut se rapprocher tellement du monde féérique qu'elle en retire un savoir dont les autres êtres n'auraient jamais revé. Cela lui permet d'être à la fois une bonne soigneuse et une puissante lanceuse de sorts."
+msgstr "Parfois, une elfe peut se rapprocher tellement du monde féérique qu'elle en retire un savoir dont les autres êtres n'auraient jamais rêvé. Cela lui permet d'être à la fois une bonne soigneuse et une puissante lanceuse de sorts."
 
 #. [advancement], id=sabre
 #: .\units\Seer.cfg:484
@@ -3803,7 +3803,7 @@ msgstr "Marcheur de l'Ombre"
 #. [unit_type], id=Shadowalker LotI, race=human
 #: .\units\Shadowalker.cfg:19
 msgid "Sometimes, the most dextrous from all masters of combat become Shadowalkers, fighters whose skill with sword is unmatched. No longer requiring illumination to fight, they can fight equally well under the sun and in dark caves. If the situation is not ideal for fencing, they can shoot a poisoned bolt at their enemy or surprise him with an unexpected spell."
-msgstr "Parfois, les plus agiles de tous les maîtres d'armes deviennent des Marcheurs de l'Ombre, des combattants dont le talent à l'épée est inégalé. N'ayant plus besoin de lumière pour combattre, il peuvent se battre aussi bien sous le soleil que dans des grottes obscures. Si la situation n'est pas idéale pour l'escrime, il peuvent tirer un carreau empoisonné sur leur ennemi ou les surprendre avec un sort inattendu. "
+msgstr "Parfois, les plus agiles de tous les maîtres d'armes deviennent des Marcheurs de l'Ombre, des combattants dont le talent à l'épée est inégalé. N'ayant plus besoin de lumière pour combattre, ils peuvent se battre aussi bien sous le soleil que dans des grottes obscures. Si la situation n'est pas idéale pour l'escrime, ils peuvent tirer un carreau empoisonné sur leur ennemi ou les surprendre avec un sort inattendu. "
 
 #. [female]
 #: .\units\Shadowalker.cfg:313
@@ -3832,7 +3832,7 @@ msgstr "Prince de l'Ombre"
 #. [unit_type], id=Shadow Prince LotI, race=human
 #: .\units\Shadow_Prince.cfg:19
 msgid "After years of life as a criminal, the outlaw gains pride and no longer feels the need to behave like a brute. To teach the others that they are superior too, they learn some magic, and practise fighting with a staff that they used when learning magic. Their authority above other criminals is so great that they can hide in any settlement."
-msgstr "Après des années de vie de criminel, le hors-la-loi devient orgueilleux et ne ressent plus le besoin de se comporter comme une brute. Pour également apprendre aux autres qu'ils sont supérieurs, il apprennent la magie et s'entraîne à combattre avec un bâton qu'ils utilisaient pour apprendre la magie. Leur autorité sur les autres criminels est telle qu'ils peuvent se cacher dans n'importe quelle colonie."
+msgstr "Après des années de vie de criminel, le hors-la-loi devient orgueilleux et ne ressent plus le besoin de se comporter comme une brute. Pour également apprendre aux autres qu'ils sont supérieurs, ils apprennent la magie et s'entraîne à combattre avec un bâton qu'ils utilisaient pour apprendre la magie. Leur autorité sur les autres criminels est telle qu'ils peuvent se cacher dans n'importe quelle colonie."
 
 #. [attack], type=impact, range=melee
 #: .\units\Shadow_Prince.cfg:44
@@ -3891,7 +3891,7 @@ msgstr "Troll de Siège"
 #. [unit_type], id=Siege Troll LotI, race=troll
 #: .\units\Siege_Troll.cfg:26
 msgid "Trolls rarely use more than the most basic of equipment. The Orcish tribes will occasionally outfit the biggest, strongest, toughest Troll they can find with heavy armour and use it as a siege weapon."
-msgstr "Les trolls utilisent rarement plus que le plus basique des équipements. Les tribus orques habilleront occasionnellement les trolls les plus grand, forts et résistants qu'il peuvent trouver avec une armure lourde et l'utiliseront comme une arme de siège."
+msgstr "Les trolls utilisent rarement plus que le plus basique des équipements. Les tribus orques habilleront occasionnellement les trolls les plus grand, forts et résistants qu'ils peuvent trouver avec une armure lourde et l'utiliseront comme une arme de siège."
 
 #. [advancement], id=devastation
 #: .\units\Siege_Troll.cfg:121
@@ -4029,9 +4029,9 @@ msgid ""
 "\n"
 "Because of the constant danger and harsh weather condition the Snow Elves live in, they are all trained for battle and skilled in usage of weapons. Thanks to their fast metabolism, they are highly resistant to frost, capable to sit half-naked in a circle and chat in freezing temperatures. They wear thick clothes when ice storms come, and others would freeze also in three layers of animal furs."
 msgstr ""
-"Ayant perdu leur ancien foyer dans les forêts après la Chute, certains elfes restèrent pour chercher les dernières forêts restantes et les trouvèrent éventuellement au nord, mais d'autres essayèrent de s'adapter à d'autres endroits. De nombreux elfes s'adaptèrent à la vie dans le désert, d'autres s'adaptèrent à la vie dans la tundra. Grâce à leurs capacités d'adaptation conférées par leur nature magique, ils devinrent aussi proche de la tundra couverte de neige que leurs ancètres ne l'étaient de la forêt. \n"
+"Ayant perdu leur ancien foyer dans les forêts après la Chute, certains elfes restèrent pour chercher les dernières forêts restantes et les trouvèrent éventuellement au nord, mais d'autres essayèrent de s'adapter à d'autres endroits. De nombreux elfes s'adaptèrent à la vie dans le désert, d'autres s'adaptèrent à la vie dans la toundra. Grâce à leurs capacités d'adaptation conférées par leur nature magique, ils devinrent aussi proche de la toundra couverte de neige que leurs ancêtres ne l'étaient de la forêt. \n"
 "\n"
-"A cause du danger constant et des conditions climatiques extrêmes dans lesquels vivent les Elfes des Neiges, ils sont entraînés au combat et versés dans l'utilisation des armes. Grâce à leur métabolisme rapide, ils sont hautement résistants au froid, capable de s'asseoir à moitié nu en cercle et discuter par des températures glaciales. Ils portent des vêtements épais quand les tempêtes de neige arrivent, quant d'autres gèleraient malgré les trois couches de fourrures d'animaux. "
+"A cause du danger constant et des conditions climatiques extrêmes dans lesquels vivent les Elfes des Neiges, ils sont entraînés au combat et versés dans l'utilisation des armes. Grâce à leur métabolisme rapide, ils sont hautement résistants au froid, capable de s'asseoir à moitié nu en cercle et discuter par des températures glaciales. Ils portent des vêtements épais quand les tempêtes de neige arrivent, quand d'autres gèleraient malgré les trois couches de fourrures d'animaux. "
 
 #. [female]
 #: .\units\Snow_Hunter.cfg:236
@@ -4176,7 +4176,7 @@ msgstr "Mage Epéiste"
 #. [unit_type], id=Sword Mage LotI, race=human
 #: .\units\Sword_Mage.cfg:19
 msgid "Because both mages and fencers prefer not to use armours, some mages or fencers came to an idea to practise both with a sword and with spells. This is incredibly hard to learn, requiring them to study in libraries and practise sword fights with any fighter who happens to cross their way, such as silk-stocking duelists wandering around, itching after potential affronts. No matter if they are mages or fencers, they are always considered to be too different by their fellow mages or fencers, and are excluded. As a result, they dislike the society and argue with any possible comrade. Due to this, all allies adjacent to a Sword Mage do 20% less damage."
-msgstr "Puisque aussi bien les mages et les bretteurs préfèrent ne pas utiliser d'armure, certains mages ou bretteurs ont eu l'idée de s'entrainer à la fois avec une épée et des sorts. C'est incroyablement difficile à apprendre, leur demandant d'étudier dans des bibliothèques et de s'entrainer à l'épée avec tout combattant qui croise leur chemin, tels que des duellistes en bas de soie en vadrouille, à la recherche de potentiels affronts. Peu importe qu'ils soient mages ou bretteurs, ils sont toujours considérés comme trop différents par leurs collègues mages ou bretteurs et sont exclus. Résultat, ils n'aiment pas la société et se disputent avec tout possible camarade. A cause de cela, tous les alliés adjacents au Mage Epéiste infligent 20% de dégats en moins. "
+msgstr "Puisque aussi bien les mages et les bretteurs préfèrent ne pas utiliser d'armure, certains mages ou bretteurs ont eu l'idée de s'entrainer à la fois avec une épée et des sorts. C'est incroyablement difficile à apprendre, leur demandant d'étudier dans des bibliothèques et de s'entrainer à l'épée avec tout combattant qui croise leur chemin, tels que des duellistes en bas de soie en vadrouille, à la recherche de potentiels affronts. Peu importe qu'ils soient mages ou bretteurs, ils sont toujours considérés comme trop différents par leurs collègues mages ou bretteurs et sont exclus. Résultat, ils n'aiment pas la société et se disputent avec tout possible camarade. A cause de cela, tous les alliés adjacents au Mage Epéiste infligent 20% de dégâts en moins. "
 
 #. [female]
 #: .\units\Sword_Mage.cfg:130
@@ -4197,7 +4197,7 @@ msgstr "capable de faire ressentir leur culpabilité aux ennemis (-15% aux rési
 #. [advancement], id=all_damage_aura
 #: .\units\Sylph.cfg:211
 msgid "deal 20% more damage, make all adjacent units deal 20% more damage"
-msgstr "infliger 20% de dégats en plus, faire infliger 20% de dégats en plus à toutes les unités adjacentes"
+msgstr "infliger 20% de dégâts en plus, faire infliger 20% de dégâts en plus à toutes les unités adjacentes"
 
 #. [unit_type], id=Troll Boulderlobber LotI, race=troll
 #: .\units\Troll_Boulderlobber.cfg:9
@@ -4207,7 +4207,7 @@ msgstr "Troll Lanceur de Boulets"
 #. [unit_type], id=Troll Boulderlobber LotI, race=troll
 #: .\units\Troll_Boulderlobber.cfg:24
 msgid "Some trolls show an uncommon ability in throwing boulders. These Boulderlobbers throw enormous rocks, that common trolls could not even lift and that are often bigger than a man."
-msgstr "Certains trolls montrent une abilité peu commune au lancer de boulets. Ces Lanceurs de Boulets lancent d'énormes rocs, que des trolls communs ne pourraient même pas lever et qui sont plus gros qu'un homme."
+msgstr "Certains trolls montrent une compétence peu commune au lancer de boulets. Ces Lanceurs de Boulets lancent d'énormes rocs, que des trolls communs ne pourraient même pas lever et qui sont plus gros qu'un homme."
 
 #. [advancement], id=sling-slow
 #: .\units\Troll_Boulderlobber.cfg:163
@@ -4233,7 +4233,7 @@ msgstr "Occultiste"
 #: .\units\Warlock.cfg:18
 #: .\units\Warlock.cfg:480
 msgid "After numerous years of practice, Sword Magi and Knights of Magic went close to the pinnacle of warfare, that they became masters of both mundane and arcane combat. They can manage to unite these two skills into one, and become even more deadly. But still, because they simply cannot wear too much armour that causes difficulties to spellcasting and dodging, they are quite vulnerable to physical blows."
-msgstr "Après de nombreuses années de pratique, les Mages Epéistes et les Chevaliers Magiciens se sont rapprochés du pinacle de la guerre, puisqu'ils sont devenus des maîtres à la fois du combat mondain et magique. Il peuvent parvenir à unifier ces deux compétences en une et devenir encore plus mortels. Néanmoins, puisqu'ils ne peuvent simplement pas porter trop d'armure, qui causent des difficultés au lancement de sorts et à l'esquive, ils sont assez vulnérable aux attaques physiques."
+msgstr "Après de nombreuses années de pratique, les Mages Epéistes et les Chevaliers Magiciens se sont rapprochés du pinacle de la guerre, puisqu'ils sont devenus des maîtres à la fois du combat mondain et magique. Ils peuvent parvenir à unifier ces deux compétences en une et devenir encore plus mortels. Néanmoins, puisqu'ils ne peuvent simplement pas porter trop d'armure, qui causent des difficultés au lancement de sorts et à l'esquive, ils sont assez vulnérables aux attaques physiques."
 
 #. [female]
 #: .\units\Warlock.cfg:476
@@ -4268,12 +4268,12 @@ msgstr "beaucoup plus résistant (beaucoup plus antisocial, par contre)"
 #. [advancement], id=social_skill
 #: .\units\Warlock.cfg:835
 msgid "not so antisocial (less damage, though)"
-msgstr "pas autant antisocial (moins de dégats, par contre)"
+msgstr "pas autant antisocial (moins de dégâts, par contre)"
 
 #. [advancement], id=social_skill2
 #: .\units\Warlock.cfg:861
 msgid "not antisocial anymore (less damage, though)"
-msgstr "plus antisocial (moins de dégats, par contre)"
+msgstr "plus antisocial (moins de dégâts, par contre)"
 
 #. [unit_type], id=Werewolf Rider LotI, race=wolf
 #: .\units\Werewolf_Rider.cfg:4
@@ -4283,7 +4283,7 @@ msgstr "Chevaucheur de Loup-Garou"
 #. [unit_type], id=Werewolf Rider LotI, race=wolf
 #: .\units\Werewolf_Rider.cfg:21
 msgid "Sometimes it happens that an orc grows really unintelligent and naive, but blessed with extraordinary strength and predator-like instincts and ferocity. They have great difficulties with integration into the orcish community, but shamans usually perform a ritual that allows them to transform their body to the shape of an animal, which lets them use their innate abilities better. It is said that those orcs have the legacy of their beast ancestors of distant past and are considered sacred. They abandon orcish communities and hunt in the wilderness. They shift back into the humanoid form only rarely, usually only when they need to climb somewhere. Those orcs are half-men and half-beasts and are nearly impossible to tame. However, sometimes there are also battle-hardened and experienced goblin riders who are ambitious enough to search for those werewolves and even manage to tame one enough to ride with him into battle. Those goblins are called werewolf riders and whenever they appear on a battlefield, they strike fear into the hearts of their foes and are even respected by the greatest of the orcs."
-msgstr "Il arrive parfois qu'un orc devienne vraiment stupide et naïf mais doté d'une force extraordinaire et des instincts et une férocité de prédateur. Ils ont de grandes difficultés à s'intégrer à la communauté orc mais les shamans réalisent habituellement un rituel qui leur permette de transformer leur corps en une forme animale, qui leur permet de mieux utiliser leurs capacités innées. Il est dit que ces orcs ont l'héritage de leurs ancêtres bestiaux d'un lointain passé et sont considérés sacrés. Ils abandonnent les communautés orcs et chassent dans les étendues sauvages. Ils se transforment rarement en leur forme humanoïde, habituellement uniquement lorsqu'ils ont besoin de grimper quelque part. Ces orcs sont mi-orc mi-bête et sont presque impossibles à dresser. Cependant, il y a parfois également des chevaucheurs gobelins endurics par la bataille et expérimentés qui sont suffisament ambitieux pour rechercher ces loups-garous et même réussir à en dresser un suffisament pour le chevaucher dans la bataille. Ces gobelins sont appellés Chevaucheurs de Loup-Garou et, lorsqu'ils apparaissent sur le champ de bataille, instillent la peur dans le cœur de leur adversaires et sont même respectés par les plus grands des orcs. "
+msgstr "Il arrive parfois qu'un orc devienne vraiment stupide et naïf mais doté d'une force extraordinaire et des instincts et une férocité de prédateur. Ils ont de grandes difficultés à s'intégrer à la communauté orc mais les shamans réalisent habituellement un rituel qui leur permette de transformer leur corps en une forme animale, qui leur permet de mieux utiliser leurs capacités innées. Il est dit que ces orcs ont l'héritage de leurs ancêtres bestiaux d'un lointain passé et sont considérés sacrés. Ils abandonnent les communautés orcs et chassent dans les étendues sauvages. Ils se transforment rarement en leur forme humanoïde, habituellement uniquement lorsqu'ils ont besoin de grimper quelque part. Ces orcs sont mi-orc mi-bête et sont presque impossibles à dresser. Cependant, il y a parfois également des chevaucheurs gobelins endurcis par la bataille et expérimentés qui sont suffisamment ambitieux pour rechercher ces loups-garous et même réussir à en dresser un suffisamment pour le chevaucher dans la bataille. Ces gobelins sont appelés Chevaucheurs de Loup-Garou et, lorsqu'ils apparaissent sur le champ de bataille, instillent la peur dans le cœur de leurs adversaires et sont même respectés par les plus grands des orcs. "
 
 #. [advancement], id=berserk
 #: .\units\Werewolf_Rider.cfg:141
@@ -4406,7 +4406,7 @@ msgid ""
 "\n"
 "Though they are not warriors, by any means, the application of their art to combat is something that often causes other soldiers to stand aside in awe."
 msgstr ""
-"Auparavant, tout prétendant au titre de grand mage était déjà presque une légende de son vivant ; les baladins des grandes villes avaient rapidement appris que cette distinction ne devait pas être prise à la légère. Une candidature n'était proposée à un conseil d'importants mages anciens qu'après un examen minutieux et dévait être confirmée par un vote à la majorité ; il n'en restait pas moins que toute personne pressentie pour ce titre maîtrisait déjà pleinement son art et était l'une des meilleures dans son domaine.\n"
+"Auparavant, tout prétendant au titre de grand mage était déjà presque une légende de son vivant ; les baladins des grandes villes avaient rapidement appris que cette distinction ne devait pas être prise à la légère. Une candidature n'était proposée à un conseil d'importants mages anciens qu'après un examen minutieux et devait être confirmée par un vote à la majorité ; il n'en restait pas moins que toute personne pressentie pour ce titre maîtrisait déjà pleinement son art et était l'une des meilleures dans son domaine.\n"
 "\n"
 "A présent, les mages de Wesnoth sont devenus beaucoup plus puissants et atteindre le niveau de Grand Mage est assez commun. Leur art ayant progressé aussi loin, la simple peur de leurs sorts maintient de nombreuses terres dans l'obéissance.\n"
 "\n"
@@ -4420,7 +4420,7 @@ msgstr "Archi-Démon"
 #. [unit_type], id=Abaddon, race=demon-loti, gender=male
 #: .\units\enemies\Abaddon.cfg:25
 msgid "Arch Demons are not a special caste of demons or something, this name is just used to describe demons who grew strong beyond the usual classification."
-msgstr "Les Archis-Démons ne sont pas une caste spéciale de démons ou autres, ce nom est simplement utilisé pour décrire les démons qui sont devenus forts au delà de la classification habituelle."
+msgstr "Les Archis-Démons ne sont pas une caste spéciale de démons ou autres, ce nom est simplement utilisé pour décrire les démons qui sont devenus forts au-delà de la classification habituelle."
 
 #. [attack], type=cold, range=ranged
 #. [effect], apply_to=new_attack, type=cold, range=ranged
@@ -4438,7 +4438,7 @@ msgstr "Abomination Atroce"
 #. [unit_type], id=Amplificator, race=monster
 #: .\units\enemies\Amplificator.cfg:38
 msgid "It is hard to believe that a living being could do something so terrible to another living being. Looking at it, all possible mercy towards Akula is tamed."
-msgstr "Il est difficile de croire q'un être vivant puisse faire quelque chose d'aussi terrible à un autre être vivant. En le regardant, tout possible pitié envers Akula est domptée."
+msgstr "Il est difficile de croire qu'un être vivant puisse faire quelque chose d'aussi terrible à un autre être vivant. En le regardant, tout possible pitié envers Akula est domptée."
 
 #. [attack], type=blade, range=melee
 #: .\units\enemies\Amplificator.cfg:57
@@ -4460,7 +4460,7 @@ msgstr "GuerrierAncien"
 #. [unit_type], id=Ancient Warrior, race=human
 #: .\units\enemies\Ancient_Warrior.cfg:53
 msgid "Ancient Warriors are fighters who, for some reasons didn't grow old and die. Their experience and strength makes them nearly undefeatable soldiers, but they rarely employ themselves in wars."
-msgstr "Les Guerriers Anciens sont des guerriers qui, pour certaines raisons, n'ont pas vieilli et ne sont pas morts. Leur expérience et force en font des soldats quasiment unvincibles mais ils s'emploient rarement à faire la guerre."
+msgstr "Les Guerriers Anciens sont des guerriers qui, pour certaines raisons, n'ont pas vieilli et ne sont pas morts. Leur expérience et force en font des soldats quasiment invincibles mais ils s'emploient rarement à faire la guerre."
 
 #. [unit_type], id=Black Army Bowman, race=human
 #: .\units\enemies\Black_Army_Bowman.cfg:4
@@ -4470,7 +4470,7 @@ msgstr "Archer de l'Armée Noire"
 #. [unit_type], id=Black Army Bowman, race=human
 #: .\units\enemies\Black_Army_Bowman.cfg:18
 msgid "The Black Army is a company of professional well-paid full-time mercenaries, purely devoted to warfare. Their skill is hard to match, their loyality to gold is endless and their mercy is unheard of. Bowmen of this army are archers with incredibly strong arms, their draw is so forceful that special bows are given to them. Their strength also allows to aim crushing sword strikes, even if their skill with the second weapon is not that great."
-msgstr "L'Armée Noire est un compagnie de mercenaires professionnels à plein temps bien payés, dévoué uniquement à la guerre. Leur compétence est difficile à égaler, leur loyauté à l'or est sans fin et la pitié leur est inconnue. Les archers de cette armée ont des bras incroyablement puissants, leur bandage est tellement puissant que des arcs spéciaux leur sont donnés. Leur force leur permet également des frappes écrasantes à l'épée, même si leur compétence avec l'arme secondaire n'est pas si grande."
+msgstr "L'Armée Noire est une compagnie de mercenaires professionnels à plein temps bien payés, dévoué uniquement à la guerre. Leur compétence est difficile à égaler, leur loyauté à l'or est sans fin et la pitié leur est inconnue. Les archers de cette armée ont des bras incroyablement puissants, leur bandage est tellement puissant que des arcs spéciaux leur sont donnés. Leur force leur permet également des frappes écrasantes à l'épée, même si leur compétence avec l'arme secondaire n'est pas si grande."
 
 #. [unit_type], id=Black Army Mage, race=human
 #: .\units\enemies\Black_Army_Mage.cfg:4
@@ -4480,7 +4480,7 @@ msgstr "Mage de l'Armée Noire"
 #. [unit_type], id=Black Army Mage, race=human
 #: .\units\enemies\Black_Army_Mage.cfg:18
 msgid "The Black Army is a company of professional well-paid full-time mercenaries, purely devoted to warfare. Their skill is hard to match, their loyality to gold is endless and their mercy is unheard of. Mages serving in this army are hand picked for their cruelty and ability to use magic specially with the purpose to destroy."
-msgstr "L'Armée Noire est un compagnie de mercenaires professionnels à plein temps bien payés, dévoué uniquement à la guerre. Leur compétence est difficile à égaler, leur loyauté à l'or est sans fin et la pitié leur est inconnue. Les mages servant dans cette armée sont sélectionnés pour leur cruauté et leur capacité à utiliser la magie spécialement dans le but de détruire."
+msgstr "L'Armée Noire est une compagnie de mercenaires professionnels à plein temps bien payés, dévoué uniquement à la guerre. Leur compétence est difficile à égaler, leur loyauté à l'or est sans fin et la pitié leur est inconnue. Les mages servant dans cette armée sont sélectionnés pour leur cruauté et leur capacité à utiliser la magie spécialement dans le but de détruire."
 
 #. [unit_type], id=Black Army Pikeman, race=human
 #: .\units\enemies\Black_Army_Pikeman.cfg:4
@@ -4490,7 +4490,7 @@ msgstr "Piquier de l'Armée Noire"
 #. [unit_type], id=Black Army Pikeman, race=human
 #: .\units\enemies\Black_Army_Pikeman.cfg:18
 msgid "The Black Army is a company of professional well-paid full-time mercenaries, purely devoted to warfare. Their skill is hard to match, their loyality to gold is endless and their mercy is unheard of. Pikemen of the Black Army are highly aggressive warriors whose defence relies on the length of their weapon."
-msgstr "L'Armée Noire est un compagnie de mercenaires professionnels à plein temps bien payés, dévoué uniquement à la guerre. Leur compétence est difficile à égaler, leur loyauté à l'or est sans fin et la pitié leur est inconnue. Les piquiers de l'Armée Noire sont des guerriers très agressifs dont la défense repose sur la longueur de leur arme. "
+msgstr "L'Armée Noire est une compagnie de mercenaires professionnels à plein temps bien payés, dévoué uniquement à la guerre. Leur compétence est difficile à égaler, leur loyauté à l'or est sans fin et la pitié leur est inconnue. Les piquiers de l'Armée Noire sont des guerriers très agressifs dont la défense repose sur la longueur de leur arme. "
 
 #. [unit_type], id=Black Army Swordsman, race=human
 #: .\units\enemies\Black_Army_Swordsman.cfg:4
@@ -4500,7 +4500,7 @@ msgstr "Spadassin de l'Armée Noire"
 #. [unit_type], id=Black Army Swordsman, race=human
 #: .\units\enemies\Black_Army_Swordsman.cfg:18
 msgid "The Black Army is a company of professional well-paid full-time mercenaries, purely devoted to warfare. Their skill is hard to match, their loyality to gold is endless and their mercy is unheard of. Swordsmen of this army are unyielding piles of steel that adamantly stand their ground and fight until a victory is won and they receive their payment."
-msgstr "L'Armée Noire est un compagnie de mercenaires professionnels à plein temps bien payés, dévoué uniquement à la guerre. Leur compétence est difficile à égaler, leur loyauté à l'or est sans fin et la pitié leur est inconnue. Les spadassins de cette armée sont des blocs d'acier inflexibles qui tiennent leur position avec fermeté et se battent jusqu'à ce que la victoire soit acquise et qu'ils recoivent leur paie."
+msgstr "L'Armée Noire est une compagnie de mercenaires professionnels à plein temps bien payés, dévoué uniquement à la guerre. Leur compétence est difficile à égaler, leur loyauté à l'or est sans fin et la pitié leur est inconnue. Les spadassins de cette armée sont des blocs d'acier inflexibles qui tiennent leur position avec fermeté et se battent jusqu'à ce que la victoire soit acquise et qu'ils reçoivent leur paie."
 
 #. [race], id=black soul-loti
 #: .\units\enemies\black_soul_race.cfg:4
@@ -4540,9 +4540,9 @@ msgid ""
 "\n"
 "Ultimately, Burning Souls seek nothing but their own death, because only death can free them from their suffering. Outside help, which would – given a vestige of sound mind and enough mental strength remained – eventually allow them to escape from this cruel, never-ending cycle almost never comes."
 msgstr ""
-"Les Âmes Brûlantes sont les esprits tourmentés de personnes pourfendues par des démons ou autrement emportées en Enfer. Avec leur libre arbitre supprimé par la folie, elle n'ont plus que la douleur et le chagrin. Elles souffrent le martyre, les démons d'Uria les brûlent vives, aussi bien de l'extérieur que de l'intérieur mais les font se régénérer instantanément pour survivre à jamais. Les tourmenteurs contrôlent les corps et les membres, forçant même ces pauvres âmes à se blesser elles-même et à empirer leur agonie (si une telle chose est possible) ou les alignent contre les ennemis de leur reine démoniaque.\n"
+"Les Âmes Brûlantes sont les esprits tourmentés de personnes pourfendues par des démons ou autrement emportées en Enfer. Avec leur libre arbitre supprimé par la folie, elles n'ont plus que la douleur et le chagrin. Elles souffrent le martyre, les démons d'Uria les brûlent vives, aussi bien de l'extérieur que de l'intérieur mais les font se régénérer instantanément pour survivre à jamais. Les tourmenteurs contrôlent les corps et les membres, forçant même ces pauvres âmes à se blesser elles-mêmes et à empirer leur agonie (si une telle chose est possible) ou les alignent contre les ennemis de leur reine démoniaque.\n"
 "\n"
-"\vA la fin, les Âmes Brûlantes ne cherchent rien d'autre que leur propre mort car seule la mort peut les libérer de leur souffrance. L'aide extérieure qui - si tant est qu'un vestige d'esprit sain et suffisament de force mentale reste - leur permettrait éventuellement d'échapper à ce cruel cycle sans fin ne vient presque jamais."
+"\vA la fin, les Âmes Brûlantes ne cherchent rien d'autre que leur propre mort car seule la mort peut les libérer de leur souffrance. L'aide extérieure qui - si tant est qu'un vestige d'esprit sain et suffisamment de force mentale reste - leur permettrait éventuellement d'échapper à ce cruel cycle sans fin ne vient presque jamais."
 
 #. [unit_type], id=Catapult, race=mechanical
 #: .\units\enemies\Catapult.cfg:4
@@ -4755,7 +4755,7 @@ msgstr "Combattant Dracan Corrompu"
 #: .\units\enemies\corruption.cfg:4270
 #: .\units\enemies\corruption.cfg:4542
 msgid "Imbued with a dark spirit, these corrupted huge lizards combine inhuman strength with potent magics to create formidable opponents. Though the drakish body often decays quickly, these abominations are potent weapons of the undead lords."
-msgstr "Imbued with a dark spirit, these corrupted huge lizards combine inhuman strength with potent magics to create formidable opponents. Though the drakish body often decays quickly, these abominations are potent weapons of the undead lords."
+msgstr "Imprégnées d'un esprit sombre, ces énormes lézards corrompus allient une force inhumaine à de puissants pouvoirs magiques pour créer des adversaires redoutables. Bien que le corps dracan se décompose souvent rapidement, ces abominations sont des armes puissantes pour les seigneurs morts-vivants."
 
 #. [unit_type], id=Corrupted Drake Warrior, race=drake
 #: .\units\enemies\corruption.cfg:3271
@@ -4804,7 +4804,7 @@ msgid ""
 "\n"
 "Battling a dragon is said to be the pinnacle of danger itself, fit only for fools, or the bravest of knights."
 msgstr ""
-"Un dragon noir est une bête légendaire appartenant normalement aux contes fantastiques. Ils demeurent très rares et seraient considérés comme des mythes sans les faits historiques qui commémorent les villes et les villages qu'ils ont rasés. Les légendes précisent clairement les ravages commis par ces créatures extrêmement fortes, très rapides, incroyablement rusées, et surtout emplies d'impressionnants ténèbres intérieurs.\n"
+"Un dragon noir est une bête légendaire appartenant normalement aux contes fantastiques. Ils demeurent très rares et seraient considérés comme des mythes sans les faits historiques qui commémorent les villes et les villages qu'ils ont rasés. Les légendes précisent clairement les ravages commis par ces créatures extrêmement fortes, très rapides, incroyablement rusées, et surtout emplies d'impressionnantes ténèbres intérieures.\n"
 "\n"
 "On dit que combattre un dragon représente le plus formidable des dangers, réservé aux seuls fous ou aux plus braves chevaliers."
 
@@ -4849,7 +4849,7 @@ msgstr "Démon"
 #: .\units\enemies\Demon_Overlord.cfg:22
 #: .\units\enemies\Demon_Warrior.cfg:22
 msgid "Demons were created as maintainers of balance between the Light and the Darkness. However, this experiment hopelessly failed and demons became evil creatures, so powerful and twisted, that they even forced the Light and Darkness to unite to lock them into a different dimension, into the world of Inferno, with no way out. But their presence in Irdya suggests that somebody knew or figured out how to release them."
-msgstr "Les démons ont été créés comme garants de l'équilibre en la Lumière et les Ténèbres. Cependant, cette expérience échoua sans espoir de retour et les démons devinrent des créatures mauvaises, tellement puissantes et tordues qu'elles forcèrent même la Lumière et les Ténèbres à s'unir pour les enfermer dans une dimensions différente, dans le monde de l'Enfer, sans issue possible. Mais leur présence en Irdya suggère que quelqu'un connaissait ou a trouvé un moyen de les libérer."
+msgstr "Les démons ont été créés comme garants de l'équilibre en la Lumière et les Ténèbres. Cependant, cette expérience échoua sans espoir de retour et les démons devinrent des créatures mauvaises, tellement puissantes et tordues qu'elles forcèrent même la Lumière et les Ténèbres à s'unir pour les enfermer dans une dimension différente, dans le monde de l'Enfer, sans issue possible. Mais leur présence en Irdya suggère que quelqu'un connaissait ou a trouvé un moyen de les libérer."
 
 #. [female]
 #: .\units\enemies\Demon.cfg:206
@@ -4990,7 +4990,7 @@ msgstr "pervertie"
 #. [trait], id=perverted
 #: .\units\enemies\demons_race.cfg:88
 msgid "far more melee damage"
-msgstr "beaucoup plus de dégats au corps-à-corps"
+msgstr "beaucoup plus de dégâts au corps-à-corps"
 
 #. [trait], id=wicked
 #: .\units\enemies\demons_race.cfg:97
@@ -5064,7 +5064,7 @@ msgstr "ensorcelée"
 #. [trait], id=shadowwave
 #: .\units\enemies\demons_race.cfg:188
 msgid "new draining arcane attack 2-5 damage + more damage per level"
-msgstr "nouvelle attaque d'arcane drainante 2-5 dégats + plus de dégats à chaque niveau"
+msgstr "nouvelle attaque d'arcane drainante 2-5 dégâts + plus de dégâts à chaque niveau"
 
 #. [trait], id=vengeful
 #: .\units\enemies\demons_race.cfg:214
@@ -5096,7 +5096,7 @@ msgstr "enflammée"
 #. [trait], id=fiery
 #: .\units\enemies\demons_race.cfg:238
 msgid "far more fireball damage, melee attacks deal fire damage, 40% fire resistance"
-msgstr "beaucoup plus de dégats de boule de feu, l'attaque au corps-à-corps inflige des dégats de feu, 40% de résistance au feu"
+msgstr "beaucoup plus de dégâts de boule de feu, l'attaque au corps-à-corps inflige des dégâts de feu, 40% de résistance au feu"
 
 #. [trait], id=blazing
 #: .\units\enemies\demons_race.cfg:260
@@ -5160,7 +5160,7 @@ msgstr "infecte"
 #. [trait], id=physresist
 #: .\units\enemies\demons_race.cfg:323
 msgid "resistant to physical damage, especially impact"
-msgstr "résistant aux dégats physique, en particulier contondants"
+msgstr "résistant aux dégâts physique, en particulier contondants"
 
 #. [trait], id=persistent
 #: .\units\enemies\demons_race.cfg:336
@@ -5175,7 +5175,7 @@ msgstr "obstinée"
 #. [trait], id=persistent
 #: .\units\enemies\demons_race.cfg:338
 msgid "resistant to magical damage"
-msgstr "résistant aux dégats magiques"
+msgstr "résistant aux dégâts magiques"
 
 #. [trait], id=regrowing
 #. [dummy], id=regrowing_loti
@@ -5330,7 +5330,7 @@ msgstr "Dame Démon"
 #: .\units\enemies\demons_race.cfg:461
 #: .\units\enemies\Demon_Lord.cfg:60
 msgid "Demon Lords are ancient creatures of supreme power and unexpectable abilities. Their nearly human appearance makes it easy for them to manipulate mortals into mischief."
-msgstr "Les Seigneurs Démons sont des créatures anciennes aux pouvoirs suprèmes et aux compétences innatendues. Leur apparence presque humaine leur rend plus facile de manipuler les humains à commettre des méfaits."
+msgstr "Les Seigneurs Démons sont des créatures anciennes aux pouvoirs suprêmes et aux compétences inattendues. Leur apparence presque humaine leur rend plus facile de manipuler les humains à commettre des méfaits."
 
 #. [race], id=demon lord-loti
 #: .\units\enemies\demons_race.cfg:463
@@ -5644,7 +5644,7 @@ msgid ""
 "\n"
 "Gameplay note: Because imps are created and not born, their abilities can vary a lot, much like the abilities of demons."
 msgstr ""
-"Les diablotins sont des créations des démons. Ils ont été créés pour servir les démons, pour faire le travail que les démons sont trop paresseux pour faire. Bien qu'un diablotin soit plus fort qu'un humain non entraîné, son manque d'intelligence limite considérablement son potentiel. Dans les batailles, les diablotins sont utilisés comme chair à cannon.\n"
+"Les diablotins sont des créations des démons. Ils ont été créés pour servir les démons, pour faire le travail que les démons sont trop paresseux pour faire. Bien qu'un diablotin soit plus fort qu'un humain non entraîné, son manque d'intelligence limite considérablement son potentiel. Dans les batailles, les diablotins sont utilisés comme chair à canon.\n"
 "\n"
 "Note de jeu : les diablotins étant créés et non nés, leurs capacités peuvent varier considérablement, à l'instar de celles des démons."
 
@@ -5858,7 +5858,7 @@ msgstr "Dracoliche"
 #. [unit_type], id=Dracolich, race=undead
 #: .\units\enemies\Dracolich.cfg:32
 msgid "The most evil and twisted dragons explore the dark side of the magic, just like the necromancers. Upon death or when they decide, they become dracoliches, terrible abominations far stronger than dragons, far stronger than liches, far stronger than anything in this world."
-msgstr "Les dragons les plus mauvais et tordus explorent le côté obscur de la magie, excatement comme les nécromanciens. A leur mort ou quand ils le décident, ils deviennent des dracoliches, de terribles abominations beaucoup plus fortes que les dragons, beacoup plus fortes que les liches, beaucoup plus fortes que quoi que ce soit en ce monde."
+msgstr "Les dragons les plus mauvais et tordus explorent le côté obscur de la magie, exactement comme les nécromanciens. A leur mort ou quand ils le décident, ils deviennent des dracoliches, de terribles abominations beaucoup plus fortes que les dragons, beaucoup plus fortes que les liches, beaucoup plus fortes que quoi que ce soit en ce monde."
 
 #. [unit_type], id=Faerie Fire Unit, race=monster
 #: .\units\enemies\Faerie_fire_unit.cfg:5
@@ -5888,7 +5888,7 @@ msgstr "Mouches"
 #. [unit_type], id=Flies, race=monster
 #: .\units\enemies\Flies.cfg:17
 msgid "A fly, even if it is a bloodsucking horse-fly, is completely harmless, but a swarm of them can be a threat. They drink only a drop of blood with each bite, but if they are numerous enough, it can add up to fatal blood loss."
-msgstr "Une mouche, même une taon vampire, est complètement innofensive, mais une nuée peut être une menace. Elle boivent seulement une goutte de sang à chaque piqûre mais, si elles sont assez nombreuses, cela peut s'additionner en une hémoralgie fatale. "
+msgstr "Une mouche, même une taon vampire, est complètement inoffensive, mais une nuée peut être une menace. Elles boivent seulement une goutte de sang à chaque piqûre mais, si elles sont assez nombreuses, cela peut s'additionner en une hémorragie fatale. "
 
 #. [unit_type], id=Flower of Evil, race=monster
 #: .\units\enemies\Flower_of_Evil.cfg:4
@@ -5913,7 +5913,7 @@ msgstr "Utilisée en attaque, cette attaque a toujours au moins 60% de chances d
 #. [unit_type], id=Fog, race=undead
 #: .\units\enemies\Fog.cfg:56
 msgid "Fog is a materialised concentration of magical energy that can exist without a constant magic source. The offensive magic cast upon it has nearly no effect, because it heals from that source of magic as fast as it is hurt by it. But a bladed weapon can shred its ethereal body into pieces easily."
-msgstr "Le Brouillard est une concentration d'énergie magique matérialisée qui peut exister sans source magique constante. La magie offensive lancée contre lui n'a pratiquement aucun effet car il se soigne de la source de magie aussi vite qu'il est blessé par elle. Mais un arme tranchante peut réduire son corps éthéré en pièces facilement."
+msgstr "Le Brouillard est une concentration d'énergie magique matérialisée qui peut exister sans source magique constante. La magie offensive lancée contre lui n'a pratiquement aucun effet car il se soigne de la source de magie aussi vite qu'il est blessé par elle. Mais une arme tranchante peut réduire son corps éthéré en pièces facilement."
 
 #. [attack], type=fire, range=ranged
 #: .\units\enemies\Fog.cfg:143
@@ -5968,7 +5968,7 @@ msgstr "Chien de l'Enfer"
 #. [unit_type], id=Hellhound, race=monster
 #: .\units\enemies\Hellhound.cfg:20
 msgid "Hellhounds fearsome monsters that live in Inferno. They are used by demons as guardians or cheaper attack force. Their mighty jaws can crush most enemies, and their fiery breath can kill a lot of victims as well."
-msgstr "Les Chiens de l'Enfersont des monstres effrayants qui vivent en Enfer. Ils sont utilisés par les démons comme gardiens ou force d'attaque bon marché. Leurs mâchoires puissantes peuvent broyer la plupart des ennemis et leur souffle enflammé peut également faire beaucoup de victimes."
+msgstr "Les Chiens de l'Enfer sont des monstres effrayants qui vivent en Enfer. Ils sont utilisés par les démons comme gardiens ou force d'attaque bon marché. Leurs mâchoires puissantes peuvent broyer la plupart des ennemis et leur souffle enflammé peut également faire beaucoup de victimes."
 
 #. [attack], type=fire, range=ranged
 #: .\units\enemies\Hellhound.cfg:40
@@ -6166,7 +6166,10 @@ msgid ""
 "An ice dragon is a legendary creature, normally seen only in fantastic tales. They are very rare, and were it not for the historical events, the singlehanded destruction of cities and towns that these creatures have wrought, they might be dismissed as mere myth. Legends are very specific about the ravages of ice dragons; noting their great strength, speed, their preternatural cunning, and above all else, the great cold that accumulates inside of them all the time.\n"
 "\n"
 "Battling a dragon is said to be the pinnacle of danger itself, fit only for fools, or the bravest of knights."
-msgstr "Un dragon de glace est une bête légendaire appartenant normalement aux contes fantastiques. Ils demeurent très rares et seraient considérés comme des mythes sans les faits historiques qui commémorent les villes et les villages qu'ils ont rasés. Les légendes précisent clairement les ravages commis par ces créatures extrêmement fortes, très rapides, incroyablement rusées, et surtout emplies d'un impressionnant froid intérieur.On dit que combattre un dragon représente le plus formidable des dangers, réservé aux seuls fous ou aux plus braves chevaliers."
+msgstr ""
+"Un dragon de glace est une bête légendaire appartenant normalement aux contes fantastiques. Ils demeurent très rares et seraient considérés comme des mythes sans les faits historiques qui commémorent les villes et les villages qu'ils ont rasés. Les légendes précisent clairement les ravages commis par ces créatures extrêmement fortes, très rapides, incroyablement rusées, et surtout emplies d'un impressionnant froid intérieur.\n"
+"\n"
+"On dit que combattre un dragon représente le plus formidable des dangers, réservé aux seuls fous ou aux plus braves chevaliers."
 
 #. [attack], type=cold, range=ranged
 #. [effect], apply_to=new_attack, type=cold, range=ranged
@@ -6250,7 +6253,7 @@ msgstr "Météore"
 #. [unit_type], id=Meteor, race=mechanical
 #: .\units\enemies\Meteor.cfg:16
 msgid "Meteoroids are huge rocks falling from the sky, destroying anything they fall on. The fires they are wrapped in as they fly through the air are called meteor. They usually come also with a huge shockwave that can be more damaging than the fire."
-msgstr "Les météoroïdes sont d'énormes rochers tombant du ciel, détruisant ce sur quoi ils tombent. Le feu dont ils sont enveloppé lorsqu'ils volent à travers l'atmosphère est appellé météore. Il s'accompagnent généralement d'une énorme onde de choc qui peut générer plus de dégats que le feu. "
+msgstr "Les météoroïdes sont d'énormes rochers tombant du ciel, détruisant ce sur quoi ils tombent. Le feu dont ils sont enveloppés lorsqu'ils volent à travers l'atmosphère est appelé météore. Ils s'accompagnent généralement d'une énorme onde de choc qui peut générer plus de dégâts que le feu. "
 
 #. [unit_type], id=Mist, race=undead
 #: .\units\enemies\Mist.cfg:41
@@ -6260,7 +6263,7 @@ msgstr "Brume"
 #. [unit_type], id=Mist, race=undead
 #: .\units\enemies\Mist.cfg:55
 msgid "Mist is a materialised concentration of magical energy that can exist without a constant magic source. The offensive magic cast upon it has nearly no effect, because it heals from that source of magic as fast as it is hurt by it. But a bladed weapon can shred its ethereal body into pieces easily. It can be sometimes dangerous for its lightning bolts."
-msgstr "La brume est une concentration d'énergie magique matérialisée qui peut exister sans source magique constante. La magie offensive lancée contre lui n'a pratiquement aucun effet car il se soigne de la source de magie aussi vite qu'il est blessé par elle. Mais un arme tranchante peut réduire son corps éthéré en pièces facilement. Elle peut parfois être dangereuse à cause de ses éclairs."
+msgstr "La brume est une concentration d'énergie magique matérialisée qui peut exister sans source magique constante. La magie offensive lancée contre lui n'a pratiquement aucun effet car il se soigne de la source de magie aussi vite qu'il est blessé par elle. Mais une arme tranchante peut réduire son corps éthéré en pièces facilement. Elle peut parfois être dangereuse à cause de ses éclairs."
 
 #. [unit_type], id=Phantom of the Opera
 #: .\units\enemies\Phantom_of_the_Opera.cfg:4
@@ -6357,7 +6360,7 @@ msgstr "Mangeur de Sorts"
 #. [unit_type], id=Spell Eater, race=monster
 #: .\units\enemies\Spell_Eater.cfg:17
 msgid "Spell Eater is a strange magical creature that feeds on magic and grows stronger in its presence. It is not particularly resistant to magic when directly attacked but it can rapidly grow very powerful if nearby allies are attacked by magic attacks."
-msgstr "Le Mangeur de Sort est une créature magique étrange qui se nourrit de magie et devient plus puissant en sa présence. Il n'est pas particulièrement résistante à la magie lorsqu'attaqué directement mais il peut rapidement devenir très puissant si des alliés proches sont attaqués par des attaques magiques."
+msgstr "Le Mangeur de Sort est une créature magique étrange qui se nourrit de magie et devient plus puissant en sa présence. Il n'est pas particulièrement résistant à la magie lorsqu'attaqué directement mais il peut rapidement devenir très puissant si des alliés proches sont attaqués par des attaques magiques."
 
 #. [unit_type], id=Spider Demon, race=demon-loti, gender=female
 #: .\units\enemies\Spider_Demon.cfg:4
@@ -6438,7 +6441,7 @@ msgstr "Incube"
 #. [unit_type], id=Succubus, race=demon-loti
 #: .\units\enemies\Succubus.cfg:17
 msgid "Succubi and Incubi are a very dangerous kind of demons. The often pretend to be friendly, and are enough attractive to make unprepared victims believe them. They excel at misleading, seducing and manipulating, rather than fighting, and their deadly charm is very dangerous also in combat."
-msgstr "Succubes et Incubes sont un genre de démons très dangereux. Ils prétendent souvent être amicaux et sont suffisament attirants pour que des victimes non-préparées les croient. Ils excellent à tromper, séduire et manipuler, plutôt que combattre et leur charme mortel est également très dangereux en combat. "
+msgstr "Succubes et Incubes sont un genre de démons très dangereux. Ils prétendent souvent être amicaux et sont suffisamment attirants pour que des victimes non-préparées les croient. Ils excellent à tromper, séduire et manipuler, plutôt que combattre et leur charme mortel est également très dangereux en combat. "
 
 #. [female]
 #: .\units\enemies\Succubus.cfg:212
@@ -6618,7 +6621,7 @@ msgstr "Feu Follet"
 #. [unit_type], id=Will_o_Wisp, race=undead
 #: .\units\enemies\Will_o_Wisp.cfg:72
 msgid "Will'o'Wisp is a materialised concentration of magical energy that can exist without a constant magic source. The offensive magic cast upon it has nearly no effect, because it heals from that source of magic as fast as it is hurt by it. But a bladed weapon can shred its ethereal body into pieces easily. It can be sometimes dangerous for its lightning bolts and invisibility during the time when it is weak."
-msgstr "Le Feu Follet est une concentration d'énergie magique matérialisée qui peut exister sans source magique constante. La magie offensive lancée contre lui n'a pratiquement aucun effet car il se soigne de la source de magie aussi vite qu'il est blessé par elle. Mais un arme tranchante peut réduire son corps éthéré en pièces facilement. Il peut parfois être dangereux pour ses écalirs et son invisibilité lorsqu'il est faible."
+msgstr "Le Feu Follet est une concentration d'énergie magique matérialisée qui peut exister sans source magique constante. La magie offensive lancée contre lui n'a pratiquement aucun effet car il se soigne de la source de magie aussi vite qu'il est blessé par elle. Mais une arme tranchante peut réduire son corps éthéré en pièces facilement. Il peut parfois être dangereux pour ses éclairs et son invisibilité lorsqu'il est faible."
 
 #. [advancement], id=blowgun2
 #: .\units\mainline\Alchemist.cfg:42
@@ -6768,7 +6771,7 @@ msgstr "plus précis avec le javelot javid"
 #: .\units\mainline\Sicarius.cfg:55
 #: .\units\mainline\Zephyr.cfg:55
 msgid "able to maim enemies, lowering their damage until they advance (new attack)"
-msgstr "capable de mutiler les ennemis, diminuant leurs dégats jusqu'à ce qu'ils se déplacent (nouvelle attaque)"
+msgstr "capable de mutiler les ennemis, diminuant leurs dégâts jusqu'à ce qu'ils se déplacent (nouvelle attaque)"
 
 #. [advancement], id=flame_blast_plague
 #: .\units\mainline\Troll_Shaman.cfg:14
@@ -6778,7 +6781,7 @@ msgstr "créér des esprits de feu avec la rafale de feu"
 #. [advancement], id=fireball3-explosion
 #: .\units\mainline\Troll_Shaman.cfg:63
 msgid "dealing damage to multiple enemies with flame blast"
-msgstr "infliger des dégats à plusieurs ennemis avec la rafale de feu"
+msgstr "infliger des dégâts à plusieurs ennemis avec la rafale de feu"
 
 #. [advancement], id=leadership
 #: .\units\mainline\Warmaster.cfg:37
@@ -6927,7 +6930,7 @@ msgstr "présence desséchante"
 #. [resistance], id=withering presence loti
 #: .\utils\abilities.cfg:189
 msgid "This unit's presence drains the life essence from adjacent enemies, giving them undead-like vulnerabilities, reducing their resistances to fire, impact and arcane by 30%."
-msgstr "La répsence de cette unité draine l'essence de vie des ennemis adjacents, lors donnant des vulnérabilités comparable aux morts-vivants, réduisant leur résistance au feu, au contondant et à l'arcane de 30%."
+msgstr "La présence de cette unité draine l'essence de vie des ennemis adjacents, lors donnant des vulnérabilités comparables aux morts-vivants, réduisant leur résistance au feu, au contondant et à l'arcane de 30%."
 
 #. [resistance], id=lifeforce transfer loti
 #: .\utils\abilities.cfg:207
@@ -6942,7 +6945,7 @@ msgstr "transfert de force vitale"
 #. [resistance], id=lifeforce transfer loti
 #: .\utils\abilities.cfg:209
 msgid "This unit's presence bestows bits of life to adjacent undead allies, giving them living-like vulnerabilities, increasing their resistances to fire, impact and arcane by 30%."
-msgstr "La présence de cette unité accorde des parcelles de vie au alliés morts-vivants adjacents, lors donnant des vulnerabilités comparable aux vivants, augmentant leur résistance au feu, au contondant et à l'arcane de 30%."
+msgstr "La présence de cette unité accorde des parcelles de vie au alliés morts-vivants adjacents, lors donnant des vulnérabilités comparable aux vivants, augmentant leur résistance au feu, au contondant et à l'arcane de 30%."
 
 #. [resistance], id=death blending loti
 #: .\utils\abilities.cfg:225
@@ -7002,7 +7005,7 @@ msgstr "répulsion d'armes ("
 #. [resistance], id=weapon repulsion loti
 #: .\utils\abilities.cfg:292
 msgid "This unit's presence causes enemy weapons to be pushed away, increasing resistances of oneself and any nearby units by "
-msgstr "La présence de cette unité repousse les armes, augmentant ses résistances et celles des unités proche de "
+msgstr "La présence de cette unité repousse les armes, augmentant ses résistances et celles des unités proches de "
 
 #. [resistance], id=shade armour loti
 #: .\utils\abilities.cfg:310
@@ -7017,7 +7020,7 @@ msgstr "armure d'ombre"
 #. [resistance], id=shade armour loti
 #: .\utils\abilities.cfg:312
 msgid "This unit’s resistances are increased by 10% for each turn spent hidden, up to 90%. The maximum added resistance is 50% for being hidden. Killing enemies increases this too, but only up to 20% added resistance. While not hidden, the bonus resistance decays by 10% per turn."
-msgstr "Les résistances de cette unité sont augmentée de 10% pour chaque tour qu'elle passe cachée, jusqu'à un maximum de 90%. La résistance maximale ajoutée pour être cachée est de 50%. Tuer des ennemis l'augmente également mais uniquement jusqu'à 20% de résistance ajoutée. Lorsqu'elle n'est pas cachée, le bonus de résistance diminue de 10% à chaque tour."
+msgstr "Les résistances de cette unité sont augmentées de 10% pour chaque tour qu'elle passe cachée, jusqu'à un maximum de 90%. La résistance maximale ajoutée pour être cachée est de 50%. Tuer des ennemis l'augmente également mais uniquement jusqu'à 20% de résistance ajoutée. Lorsqu'elle n'est pas cachée, le bonus de résistance diminue de 10% à chaque tour."
 
 #. [damage], id=charge
 #: .\utils\abilities.cfg:322
@@ -7032,7 +7035,7 @@ msgstr "furieux"
 #. [damage], id=furious_loti
 #: .\utils\abilities.cfg:332
 msgid "In a rush to deal damage as furiously as possible, the attacker has no opportunity to heal during combat."
-msgstr "Dans sa course pour infliger des dégats aussi furieusement que possible, l'attaquant n'a aucune opportunité de se soigner pendant le combat. "
+msgstr "Dans sa course pour infliger des dégâts aussi furieusement que possible, l'attaquant n'a aucune opportunité de se soigner pendant le combat. "
 
 #. [damage], id=lurk_loti
 #: .\utils\abilities.cfg:339
@@ -7439,7 +7442,7 @@ msgstr "commandement (comme une unité de niveau "
 #. [leadership], id=leadership loti {LEVEL}
 #: .\utils\abilities.cfg:820
 msgid "This unit can lead your own units that are next to it, making them fight better.  Adjacent own units of lower level will do more damage in battle. When a unit adjacent to, of a lower level than, and on the same side as a unit with Leadership engages in combat, its attacks do 25% more damage times the difference in their levels."
-msgstr "Cette unité peut commander vos propres unités qui sont à côté d'elle, les faisant se battre mieux. Vos unités adjacentes de plus bas niveau infligeront plus de dégats au combat. Quand une unité adjacente de niveau plus faible et du même camp qu'une unité avec commandement engage le combat, ses attaques infligent 25% de dégats supplémentaires multiplié par la différence de leurs niveaux. "
+msgstr "Cette unité peut commander vos propres unités qui sont à côté d'elle, les faisant se battre mieux. Vos unités adjacentes de plus bas niveau infligeront plus de dégâts au combat. Quand une unité adjacente de niveau plus faible et du même camp qu'une unité avec commandement engage le combat, ses attaques infligent 25% de dégâts supplémentaires multiplié par la différence de leurs niveaux. "
 
 #. [leadership], id=leadership loti {LEVEL}
 #: .\utils\abilities.cfg:821
@@ -7459,7 +7462,7 @@ msgstr "socratique"
 #. [leadership], id=socratic_loti
 #: .\utils\abilities.cfg:839
 msgid "This unit can ask good enough questions to help stronger units rethink their strategy. Adjacent own units of higher level will do more damage in battle. When a unit adjacent to, of a higher level than, and on the same side as a unit with Leadership engages in combat, its attacks do 25% more damage times the difference in their levels. This is limited to 75%."
-msgstr "Cette unité peut poser des questions suffisamment bonnes pour aider des unités plus fortes à repenser leur stratégie. Vos unités adjacentes de plus haut niveau infligeront plus de dégats au combat. Quand une unité adjacente de niveau plus fort et du même camp qu'une unité avec commandement engage le combat, ses attaques infligent 25% de dégats supplémentaires multiplié par la différence de leurs niveaux. Ceci est limité à 75%."
+msgstr "Cette unité peut poser des questions suffisamment bonnes pour aider des unités plus fortes à repenser leur stratégie. Vos unités adjacentes de plus haut niveau infligeront plus de dégâts au combat. Quand une unité adjacente de niveau plus fort et du même camp qu'une unité avec commandement engage le combat, ses attaques infligent 25% de dégâts supplémentaires multiplié par la différence de leurs niveaux. Ceci est limité à 75%."
 
 #. [leadership], id=socratic_loti
 #: .\utils\abilities.cfg:840
@@ -7601,7 +7604,7 @@ msgstr "Cette capacité permet à son porteur d'empoisonner et blesser les unit�
 #. [periodic_damage_aura]
 #: .\utils\abilities.cfg:972
 msgid " damage). It cannot kill."
-msgstr " dégats). Elle ne peut pas tuer."
+msgstr " dégâts). Elle ne peut pas tuer."
 
 #. [regenerate], id=regenerates loti {VALUE}
 #: .\utils\abilities.cfg:984
@@ -7652,12 +7655,12 @@ msgstr "braises dévorantes"
 #. [regenerate], id=devouring embers loti
 #: .\utils\abilities.cfg:1013
 msgid "This unit heals 16 HP per turn when above lava. If poisoned, the poison will be cured instead."
-msgstr "L'unité se soigne de 16 PV par tour au dessus de la lave. Si elle est empoisonnée, elle élimine le poison au lieu de se soigner."
+msgstr "L'unité se soigne de 16 PV par tour au-dessus de la lave. Si elle est empoisonnée, elle élimine le poison au lieu de se soigner."
 
 #. [regenerate], id=devouring embers loti
 #: .\utils\abilities.cfg:1015
 msgid " This unit regenerates, which allows it to heal as though always stationed in a village, if it is above lava."
-msgstr "Cette unité se régénère naturellement, ce qui lui permet de se soigner comme si elle était toujours stationnée dans un village, si elle est au dessus de la lave."
+msgstr "Cette unité se régénère naturellement, ce qui lui permet de se soigner comme si elle était toujours stationnée dans un village, si elle est au-dessus de la lave."
 
 #. [damage], id=explosive detonation loti
 #: .\utils\abilities.cfg:1028
@@ -7667,7 +7670,7 @@ msgstr "détonation explosive"
 #. [damage], id=explosive detonation loti
 #: .\utils\abilities.cfg:1029
 msgid "When used on offense, this attack causes the attacker to explode, killing it instantly.  All adjacent units will take damage of the weapon's type equal to the attacker's hitpoints."
-msgstr "Lorsqu'utilisée en attaque, cette attaque cause l'explosion de l'attaquant, le tuant instantanément. Toutes les unités adjacentes subiront des dégats du type de l'arme égaux aux points de vie de l'attaquant."
+msgstr "Lorsqu'utilisée en attaque, cette attaque cause l'explosion de l'attaquant, le tuant instantanément. Toutes les unités adjacentes subiront des dégâts du type de l'arme égaux aux points de vie de l'attaquant."
 
 #. [damage], id=spiritual attack loti
 #: .\utils\abilities.cfg:1038
@@ -7711,7 +7714,7 @@ msgstr "soins +"
 #. [heals], id=healing_loti_{VALUE}
 #: .\utils\abilities.cfg:1088
 msgid "This unit combines herbal remedies with magic to heal units more quickly than is normally possible on the battlefield.  A unit cared for by this healer may heal up to "
-msgstr "Cette unité combine des remèdes herbaux avec la magie pour soigner les unités plus vite qu'il n'est normalement possible sur le champ de bataille. Une unité dont s'occupe ce soigneur peut ête soignée de "
+msgstr "Cette unité combine des remèdes herbaux avec la magie pour soigner les unités plus vite qu'il n'est normalement possible sur le champ de bataille. Une unité dont s'occupe ce soigneur peut être soignée de "
 
 #. [heals], id=healing_loti_{VALUE}
 #: .\utils\abilities.cfg:1088
@@ -7756,7 +7759,7 @@ msgstr "L'unité roussit les ennemis adjacents au début de votre tour, leur inf
 #. [periodic_damage_aura]
 #: .\utils\abilities.cfg:1125
 msgid " fire damage. It can kill."
-msgstr " dégats de feu. Cela peut tuer."
+msgstr " dégâts de feu. Cela peut tuer."
 
 #. [periodic_damage_aura]
 #: .\utils\abilities.cfg:1138
@@ -7776,7 +7779,7 @@ msgstr "Les épées lévitantes de l'unité fendent les ennemis adjacents au dé
 #. [periodic_damage_aura]
 #: .\utils\abilities.cfg:1140
 msgid " blade damage. It can kill."
-msgstr " dégats tranchants. Cela peut tuer. "
+msgstr " dégâts tranchants. Cela peut tuer. "
 
 #. [aggressive_blood]
 #: .\utils\abilities.cfg:1153
@@ -7796,7 +7799,7 @@ msgstr "Quand cette unité est touchée, les unités ennemies adjacentes subisse
 #. [aggressive_blood]
 #: .\utils\abilities.cfg:1155
 msgid " fire damage and become poisoned. It can kill."
-msgstr " dégats de feu et sont empoisonnées. Cela peut tuer."
+msgstr " dégâts de feu et sont empoisonnées. Cela peut tuer."
 
 #. [damage], id=unholybane_loti
 #: .\utils\abilities.cfg:1165
@@ -7816,7 +7819,7 @@ msgstr "seigneur des mouches"
 #. [damage], id=lord of the flies loti
 #: .\utils\abilities.cfg:1192
 msgid "This attack does triple damage to flies."
-msgstr "Cette attaque inflige des dégâts triples aux mooches."
+msgstr "Cette attaque inflige des dégâts triples aux mouches."
 
 #. [damage], id=misanthropia_loti
 #: .\utils\abilities.cfg:1202
@@ -8108,7 +8111,7 @@ msgstr "Si cette unité se retrouve à court de mouvements sans unité adjacente
 #. [dummy], id=triggerable_loti
 #: .\utils\abilities.cfg:1506
 msgid "triggerable"
-msgstr "triggerable"
+msgstr "déclenchable"
 
 #. [dummy], id=triggerable_loti
 #: .\utils\abilities.cfg:1507
@@ -8278,7 +8281,7 @@ msgstr "faim impie"
 #. [dummy], id=unholy hunger loti
 #: .\utils\abilities.cfg:1601
 msgid "This unit craves for the souls of living beings. When it kills a living unit, it will heal 10 HP and its maximum HP will increase by 3. When it is not fed continually, it starts to starve, and loses 1 maximum HP more for each turn it did not kill something at the beginning of each turn. The hunger has no effect if the unit is cared by a healer or standing in a village."
-msgstr "Cette unité a faim des âmes des êtres vivants. Lorsqu'elle tue une unité vivante, elle se soigne de 10 PV et sont maximum de PV est augmenté de 3. Si elle n'est pas nourrie continuellement, elle commence à être affamée et perd 1 PV max pour chaque tour où elle n'a pas tué quelque chose, au début de chaque tour. Cette faim n'a pas d'effet si un soigneur s'est occupé d'elle ou si elle se trouve dans un village. "
+msgstr "Cette unité a faim des âmes des êtres vivants. Lorsqu'elle tue une unité vivante, elle se soigne de 10 PV et son maximum de PV est augmenté de 3. Si elle n'est pas nourrie continuellement, elle commence à être affamée et perd 1 PV max pour chaque tour où elle n'a pas tué quelque chose, au début de chaque tour. Cette faim n'a pas d'effet si un soigneur s'est occupé d'elle ou si elle se trouve dans un village. "
 
 #. [dummy], id=incinerate_loti
 #: .\utils\abilities.cfg:1607
@@ -8318,7 +8321,7 @@ msgstr "L'attaque de l'opposant le touchera s'il rate son attaque."
 #. [dummy], id=pierce_loti
 #: .\utils\abilities.cfg:1638
 msgid "If this attack is used offensively, the enemy behind the target is hurt as well, for 1/2 of the damage. The user loses 2 damage points after the attack, the damage penalty will half each turn."
-msgstr "Si cette attaque est utilisée en attaque, l'ennemi derrière la cible est blessé également, de la moitié des dégats. L'utilisateur perd 2 points de dégats après l'attaque, la pénalité au dégat étant réduite de moitié à chaque tour. "
+msgstr "Si cette attaque est utilisée en attaque, l'ennemi derrière la cible est blessé également, de la moitié des dégâts. L'utilisateur perd 2 points de dégâts après l'attaque, la pénalité aux dégâts étant réduite de moitié à chaque tour. "
 
 #. [dummy], id=massive missile loti
 #: .\utils\abilities.cfg:1644
@@ -8353,17 +8356,17 @@ msgstr "cône"
 #. [dummy], id=cone_loti
 #: .\utils\abilities.cfg:1674
 msgid "With this attack enemies next to attacker and target suffer 1/2 the damage. The foe behind the defender takes 1/2 of the damage too, while their adjacent comrades take 1/4 of it. It is so tiring that the unit's damage decreases by 6 after the attack, the damage penalty will half each turn. Works only offensively."
-msgstr "Avec cette attaque, les ennemies se trouvant à côté de l'attaquant et de la cible subissent la moitié des dégats. L'adversaire se trouvant derrière le défenseur subit également la moitié des dégats, tandis que leurs camarades adjacents subissent un quart de ceux-ci. Cela est tellement fatiguant que les dégats de l'unité sont réduits de 6 après l'attaque, la pénalité de dégats étant divisée par deux à chaque tour. Utilisable uniquement en attaque. "
+msgstr "Avec cette attaque, les ennemies se trouvant à côté de l'attaquant et de la cible subissent la moitié des dégâts. L'adversaire se trouvant derrière le défenseur subit également la moitié des dégâts, tandis que leurs camarades adjacents subissent un quart de ceux-ci. Cela est tellement fatiguant que les dégâts de l'unité sont réduits de 6 après l'attaque, la pénalité de dégâts étant divisée par deux à chaque tour. Utilisable uniquement en attaque. "
 
 #. [dummy], id=hose_loti
 #: .\utils\abilities.cfg:1680
 msgid "hose"
-msgstr "hose"
+msgstr "tuyau"
 
 #. [dummy], id=hose_loti
 #: .\utils\abilities.cfg:1681
 msgid "If this attack us used offensively, many enemies behind and around the original target are hit. It is so tiring that the unit's damage decreases by 12 after the attack, the damage penalty will half each turn."
-msgstr "Si cette attaque est utilisée en attaque, plusieurs ennemis derrière et autour de la cible initiale sont touchés. Cela est tellement fatiguant que les dégats de l'unité sont réduit de 12 après l'attaque, la pénalité aux dégats étant divisée par deux à chaque tour. "
+msgstr "Si cette attaque est utilisée en attaque, plusieurs ennemis derrière et autour de la cible initiale sont touchés. Cela est tellement fatiguant que les dégâts de l'unité sont réduits de 12 après l'attaque, la pénalité aux dégâts étant divisée par deux à chaque tour. "
 
 #. [dummy], id=extra damage 5 impact loti
 #: .\utils\abilities.cfg:1687
@@ -8623,7 +8626,7 @@ msgstr "sprint kamikaze"
 #. [damage], id=kamikaze sprint loti
 #: .\utils\abilities.cfg:1875
 msgid "If this attack hits offensively, the attacker first takes the damage of all the opponent's attacks. Then, the enemy behind the target takes a half of this attack's damage, the enemy behind him takes a quarter of the initial damage etc, until there are no more enemies in the row, and the attacker will appear there. If the opponent's damage would kill, the weapon special does not work."
-msgstr "Si cette attaque touche offensivement, l'attaquant subit d'abord les dégâts de toutes les attaques de l'adversaire. Ensuite, l'ennemi derrière la cible subit la moitié des dégâts de cette attaque, l'ennemi derrière lui subit un quart des dégâts initiaux, etc, jusqu'à ce qu'il n'y ait plus d'ennemis dans la rangée, et l'attaquant y apparaîtra. Si les dégâts de l'adversaire tuent, la spécialité d'attaque ne fonctionne pas."
+msgstr "Si cette attaque touche offensivement, l'attaquant subit d'abord les dégâts de toutes les attaques de l'adversaire. Ensuite, l'ennemi derrière la cible subit la moitié des dégâts de cette attaque, l'ennemi derrière lui subit un quart des dégâts initiaux, etc., jusqu'à ce qu'il n'y ait plus d'ennemis dans la rangée, et l'attaquant y apparaîtra. Si les dégâts de l'adversaire tuent, la spécialité d'attaque ne fonctionne pas."
 
 #. [damage], id=disintegrate_loti
 #: .\utils\abilities.cfg:1881
@@ -8643,7 +8646,7 @@ msgstr "annihilation d'âme"
 #. [damage], id=soul annihilation loti
 #: .\utils\abilities.cfg:1889
 msgid "Every blow with this attack has a 1% chance to kill an enemy, dealing arcane damage to nearby enemies, the damage is the amount of the victim's remaining health divided by the number of nearby enemies with arcane damage."
-msgstr "Chaque coup avec cette attaque a 1% de chance de tuer l'ennemi, infligeant des dégats d'arcane aux ennemis proches, les dégats étant la santé restante à la victime divisée par le nombre d'ennemis proche."
+msgstr "Chaque coup avec cette attaque a 1% de chance de tuer l'ennemi, infligeant des dégâts d'arcane aux ennemis proches, les dégâts étant la santé restante à la victime divisée par le nombre d'ennemis proche."
 
 #. [damage], id=nosferatu gorge loti
 #: .\utils\abilities.cfg:1895
@@ -8673,7 +8676,7 @@ msgstr "raclée d'âme"
 #. [damage], id=soul thrash loti
 #: .\utils\abilities.cfg:1910
 msgid "Every blow with this attack has a 1% chance to kill an enemy, adding the victims' level to the attacker's wrath (increasing the damage temporarily, the increase is halved every turn). Works only offensively."
-msgstr "Chaque coup porté avec cette attaque a 1 % de chances de tuer un ennemi, en ajoutant le niveau de la victime au courroux de l'attaquant (ce qui augmente temporairement les dégâts, l'augmentation étant divisée par deux à chaque tour). Ne fonctionne que de manière offensive."
+msgstr "Chaque coup porté avec cette attaque a 1 % de chances de tuer un ennemi, en ajoutant le niveau de la victime au courroux de l'attaquant (ce qui augmente temporairement les dégâts, l'augmentation étant divisée par deux à chaque tour). Ne fonctionne qu'en attaque."
 
 #. [damage], id=soul extraction loti
 #: .\utils\abilities.cfg:1916
@@ -8750,7 +8753,7 @@ msgstr "alimentée par la mort"
 #. [dummy], id=fueled by death loti
 #: .\utils\abilities.cfg:1964
 msgid "All adjacent units to a unit with this ability lose 4 hitpoints at the beginning of this unit's turn. Half of the damage dealt increases this unit's damage in a way that decays to half every turn. Undrainable units are not hurt but contribute to the damage bonus notheless. It cannot kill."
-msgstr "Toutes les unités adjacentes à une unité avec cette capacité perdent 4 points de vie au début du tour de cette unité. La moitié des dégats infligés augmentent les dégats de cette unité d'une manière qui est réduite de moitié à chaque tour. Les unités indrainables ne sont pas blessées mais contrinuent tout de même au bonus de dégats. Cela ne peut pas tuer."
+msgstr "Toutes les unités adjacentes à une unité avec cette capacité perdent 4 points de vie au début du tour de cette unité. La moitié des dégâts infligés augmentent les dégâts de cette unité d'une manière qui est réduite de moitié à chaque tour. Les unités indrainables ne sont pas blessées mais contribuent tout de même au bonus de dégâts. Cela ne peut pas tuer."
 
 #. [dummy], id=parasite_loti
 #: .\utils\abilities.cfg:1970
@@ -8820,7 +8823,7 @@ msgstr "Lorsque cette attaque est utilisée de manière offensive, toutes les un
 #. [attacks]
 #: .\utils\abilities.cfg:2024
 msgid "When this attack is used, all enemies adjacent to the attacker take the damage and the enemy cannot retaliate. It is so tiring that the unit's damage decreases by 10 after the attack, the damage penalty will half each turn."
-msgstr "Quand cette attaque est utilisée, tous les ennemis adjacents à l'attaquant prennent les dégats et l'ennemi ne peut pas riposter. Cela est tellement fatiguant que les dégats de l'untiés sont réduits de 10 après l'attaque, la pénalité de dégats étant divisée par deux à chaque tour. "
+msgstr "Quand cette attaque est utilisée, tous les ennemis adjacents à l'attaquant prennent les dégâts et l'ennemi ne peut pas riposter. Cela est tellement fatiguant que les dégâts de l'unité sont réduits de 10 après l'attaque, la pénalité de dégâts étant divisée par deux à chaque tour. "
 
 #. [attacks]
 #: .\utils\abilities.cfg:2025
@@ -8916,7 +8919,7 @@ msgstr "reflet"
 #. [dummy], id=reflect_loti
 #: .\utils\abilities.cfg:2093
 msgid "When this unit is hit, a half of the damage it took is dealt also to the attacker. It cannot kill, unlike thorns."
-msgstr "Quand cette unité est touchée, la moitié des dégats qui lui sont infligés sont également infligés à l'attaquant. Cela ne peut pas tuer, contrairement aux épines."
+msgstr "Quand cette unité est touchée, la moitié des dégâts qui lui sont infligés sont également infligés à l'attaquant. Cela ne peut pas tuer, contrairement aux épines."
 
 #. [dummy], id=reflect aura loti
 #: .\utils\abilities.cfg:2100
@@ -8946,7 +8949,7 @@ msgstr "décharge électrique"
 #. [dummy], id=electrical_discharge_loti
 #: .\utils\abilities.cfg:2111
 msgid "When this unit is hit with a melee attack, the resulting discharge of electricity causes an equal amount of lightning damage to be taken by the attacker. It can kill."
-msgstr "Quand cette unité est touchée au corps-à-corps, la décharge électrique résultante cause une quantité égale de dégats électriques à l'attaquant. Cela peut tuer."
+msgstr "Quand cette unité est touchée au corps-à-corps, la décharge électrique résultante cause une quantité égale de dégâts électriques à l'attaquant. Cela peut tuer."
 
 #. [dummy], id=freezing_loti
 #: .\utils\abilities.cfg:2118
@@ -9141,7 +9144,7 @@ msgstr "folie rayonnante"
 #. [berserk], id=berserk_leadership_loti
 #: .\utils\abilities.cfg:2358
 msgid "All nearby allies fight with a bloodlust equal to the dwarvish berserk on melee attacks."
-msgstr "Tous les alliés proches combattent au corps-à-corpsavec une soif de sang égale à celle d'un berserk nain."
+msgstr "Tous les alliés proches combattent au corps-à-corps avec une soif de sang égale à celle d'un berserk nain."
 
 #. [damage], id=charge_leadership_loti
 #: .\utils\abilities.cfg:2376
@@ -9156,12 +9159,12 @@ msgstr "règne du seigneur de guerre"
 #. [damage], id=charge_leadership_loti
 #: .\utils\abilities.cfg:2378
 msgid "All nearby allies deal and take 50% more melee damage."
-msgstr "Touts les alliés proches infligent et subissent 50% de dégats en plus au corps-à-corps."
+msgstr "Touts les alliés proches infligent et subissent 50% de dégâts en plus au corps-à-corps."
 
 #. [damage], id=charge_leadership_loti
 #: .\utils\abilities.cfg:2379
 msgid " This unit can fanaticise all units adjacent to him into a frenzy, making them deal and take double melee damage, but only offensively."
-msgstr "Cette unité peut fanatiser toutes les unités adjacentes en une frénésie, leur faisant infliger et subir le double de dégats au corps-à-corps, mais uniquement en attaque."
+msgstr "Cette unité peut fanatiser toutes les unités adjacentes en une frénésie, leur faisant infliger et subir le double de dégâts au corps-à-corps, mais uniquement en attaque."
 
 #. [poison], id=poison_leadership_loti
 #: .\utils\abilities.cfg:2399
@@ -9275,7 +9278,7 @@ msgstr ""
 " Raconter tout ce qu'un demi-dieu peut faire serait trop long. Mais il faut savoir qu'ils ont développé de la compassion en voulant sauver leurs misérables ennemis des péchés, de la douleur, de la souffrance et de la misère, et qu'ils sont capables de racheter les âmes tourmentées. Même si cette \"attaque de rédemption\" ne peut être utilisée qu'une fois tous les trois tours.\n"
 "\n"
 "Notes de gameplay :\n"
-"Il est impératif d'utiliser l'attaque de rédemption de temps en temps. Après avoir racheté un certain nombre d'ennemis, la rédemption devient plus efficace (peut-être aussi une bonne arme offensive) et l'unité gagne une nouvelle ligne d'avancement au choix. Certaines d'entre elles ajoutent de nouveaux sorts, d'autres de nouvelles capacités. Les sorts gagnés ont une portée énorme, incomparable à celle des autres sorts, et convergent en Tempête de particules, une attaque touchant de nombreux ennemis et infligeant d'importants dégâts arcaniques. Les capacités physiques convergent vers la Transformation spirituelle, une attaque qui permet à l'unité d'attaquer une cible unique en lui infligeant d'énormes dégâts et en ne subissant que 33 % des dégâts.\n"
+"Il est impératif d'utiliser l'attaque de rédemption de temps en temps. Après avoir racheté un certain nombre d'ennemis, la rédemption devient plus efficace (peut-être aussi une bonne arme offensive) et l'unité gagne une nouvelle ligne d'avancement au choix. Certaines d'entre elles ajoutent de nouveaux sorts, d'autres de nouvelles capacités. Les sorts gagnés ont une portée énorme, incomparable à celle des autres sorts, et convergent en Tempête de particules, une attaque touchant de nombreux ennemis et infligeant d'importants dégâts d'arcane. Les capacités physiques convergent vers la Transformation spirituelle, une attaque qui permet à l'unité d'attaquer une cible unique en lui infligeant d'énormes dégâts et en ne subissant que 33 % des dégâts.\n"
 "Sans ces avancées, l'unité ne deviendra jamais particulièrement forte, et les ennemis de bas niveau risquent de devenir rares à trouver."
 
 #. SPECIAL_NOTES_TENTACLES
@@ -9296,7 +9299,7 @@ msgstr " Lorsque cette unité est attaquée à portée de mêlée, l'attaquant s
 #. SPECIAL_NOTES_DEMON_ARCANE
 #: .\utils\abilities.cfg:2541
 msgid " Demons are creatures of magic, and arcane attacks have only a little effect on them."
-msgstr " Les démons sont des créatures magiques, et les attaques arcaniques n'ont que peu d'effet sur eux."
+msgstr " Les démons sont des créatures magiques, et les attaques d'arcane n'ont que peu d'effet sur eux."
 
 #. [message], speaker=unit
 #: .\utils\abilities_events.cfg:118
@@ -9396,7 +9399,7 @@ msgstr "RédemptionMineure Niveau Supérieur 3"
 #. [value]
 #: .\utils\abilities_events.cfg:6843
 msgid "LesserRedeem: +1 dmg, +2 resist all, penetrate blade, arcane and pierce"
-msgstr "RédemptionMineure : +1 dégât, +2 résistance à tout, pénètre le trenchant, l'arcane, et le perforant"
+msgstr "RédemptionMineure : +1 dégât, +2 résistance à tout, pénètre le tranchant, l'arcane, et le perforant"
 
 #. [floating_text]
 #: .\utils\abilities_events.cfg:6868
@@ -9700,7 +9703,7 @@ msgstr "perforer les ennemis en mêlée (Sérendipité)"
 #. [advancement], id=HoD1
 #: .\utils\amla.cfg:1742
 msgid "able to cast a spell that lowers enemy terrain defences (Heart of Darkness)"
-msgstr "capable de lancer un sort qui réduit les défenses de terrain de l'ennemi (Coeur des Ténèbres)"
+msgstr "capable de lancer un sort qui réduit les défenses de terrain de l'ennemi (Cœur des Ténèbres)"
 
 #. [effect], apply_to=new_attack, type=arcane, range=ranged
 #: .\utils\amla.cfg:1748
@@ -9720,7 +9723,7 @@ msgstr "infortune"
 #. [advancement], id=HoD3
 #: .\utils\amla.cfg:1934
 msgid "able to cast a spell that lowers enemy damage (Heart of Darkness)"
-msgstr "capable de lancer un sort qui réduit les dégâts infligés par l'ennemi (Coeur des Ténèbres)"
+msgstr "capable de lancer un sort qui réduit les dégâts infligés par l'ennemi (Cœur des Ténèbres)"
 
 #. [effect], apply_to=new_attack, type=arcane, range=ranged
 #: .\utils\amla.cfg:1940
@@ -9740,7 +9743,7 @@ msgstr "réanimation"
 #. [advancement], id=HoD5
 #: .\utils\amla.cfg:1980
 msgid "able to cast a spell that lowers enemy terrain defences, resistance and damage (Heart of Darkness)"
-msgstr "capable de lancer un sort qui réduit les defenses de terrain, la résistance et les dégâts de l'ennemi (Coeur des Ténèbres)"
+msgstr "capable de lancer un sort qui réduit les défenses, la résistance et les dégâts de l'ennemi (Cœur des Ténèbres)"
 
 #. [advancement], id=RBF1
 #: .\utils\amla.cfg:2006
@@ -9917,7 +9920,7 @@ msgstr "15 % d'augmentation des dégâts pour les unités adjacentes (Héritage 
 #. [advancement], id=LoK3
 #: .\utils\amla.cfg:2963
 msgid "15% increased damage for adjacent units, 10% better resistances (Legacy of Kings)"
-msgstr "15% d'augmentation de dégats pour les unités adjacentes, 10% de résistance supplémentaire (Héritage des Rois)"
+msgstr "15% d'augmentation de dégâts pour les unités adjacentes, 10% de résistance supplémentaire (Héritage des Rois)"
 
 #. [leadership], id=Legacy of Kings
 #: .\utils\amla.cfg:2984
@@ -10676,7 +10679,7 @@ msgstr "diminue la résistance au perforant de tous les ennemis adjacents de 5 %
 #. [message], speaker=narrator
 #: .\utils\global_events.cfg:650
 msgid "Automatically picked $item_info.name you could not pick before the end of the scenario."
-msgstr "$item_info.name, que vous n'aviez pas pu ramassé avant la fin du scénario, ramassé automatiquement."
+msgstr "$item_info.name, que vous n'aviez pas pu ramasser avant la fin du scénario, ramassé automatiquement."
 
 #. [set_menu_item], id=8respec
 #: .\utils\global_events.cfg:695
@@ -10713,7 +10716,7 @@ msgid ""
 "<b>$worked_on.modifications.advancement[$last_advancement_index].description </b>\n"
 "Do you want to change it for something else?"
 msgstr ""
-"Le dernier avancement que cette unitée a pris est décrit comme : \n"
+"Le dernier avancement que cette unité a pris est décrit comme : \n"
 "<b>$worked_on.modifications.advancement[$last_advancement_index].description </b>\n"
 "Voulez-vous en changer pour autre chose ?"
 
@@ -11154,7 +11157,7 @@ msgstr "Faiseur de Mort"
 #. [object]
 #: .\utils\item_list.cfg:500
 msgid "Die! Die! Die! Wait... how do I make him die instead of simply getting cut?"
-msgstr "Meurt ! Meurt ! Meurt! Attendez... comment je le fais mourir et pas seulement être coupé ?"
+msgstr "Meurt ! Meurt ! Meurt ! Attendez... comment je le fais mourir et pas seulement être coupé ?"
 
 #. [object]
 #: .\utils\item_list.cfg:503
@@ -11502,7 +11505,7 @@ msgid ""
 "'What is this thing good for?'\n"
 "'Nothing special.'"
 msgstr ""
-"'À quoi sert ce truc?'\n"
+"'À quoi sert ce truc ?'\n"
 "'Rien de spécial'."
 
 #. [object]
@@ -12120,7 +12123,7 @@ msgid ""
 "'Smashing heads.'"
 msgstr ""
 "'Donnons aux orcs quelque chose qu'ils aiment, peut-être qu'ils nous laisseront tranquilles'.\n"
-"'Qu'est-ce qu'ils aiment?'\n"
+"'Qu'est-ce qu'ils aiment ?'\n"
 "'Défoncer des têtes.'"
 
 #. [object]
@@ -12689,7 +12692,7 @@ msgstr ""
 #: .\utils\item_list.cfg:2829
 #: .\utils\item_list.cfg:10135
 msgid "Godsmasher"
-msgstr "Briseur de Dieus"
+msgstr "Briseur de Dieux"
 
 #. [object]
 #: .\utils\item_list.cfg:2843
@@ -13866,7 +13869,7 @@ msgstr "Sarcasme Sombre"
 #. [object]
 #: .\utils\item_list.cfg:4851
 msgid "You missed! You cannot even hit me! Hahahaha! I feel so good to see you fail, loser!"
-msgstr "T'as raté ton coup ! Tu peux même pas me toucher ! Hahahaha ! Ça me fait du bien de te voir rater, loser !"
+msgstr "T'as raté ton coup ! Tu ne peux même pas me toucher ! Hahahaha ! Ça me fait du bien de te voir rater, loser !"
 
 #. [object]
 #: .\utils\item_list.cfg:4854
@@ -15632,7 +15635,7 @@ msgstr "Personne ne connaissait son identité, pourtant tout le monde connaissai
 #. [object]
 #: .\utils\item_list.cfg:7997
 msgid "The Deterrent"
-msgstr "La Disuasion"
+msgstr "La Dissuasion"
 
 #. [object]
 #: .\utils\item_list.cfg:8011
@@ -15840,8 +15843,8 @@ msgid ""
 "'You shall never question my power!'\n"
 "'Only because of that cheap decorated armour of yours?'"
 msgstr ""
-"'Vous ne remettrez jamais en question mon pouvoir!'\n"
-"'Uniquement à cause de votre armure décorée bon marché?'"
+"'Vous ne remettrez jamais en question mon pouvoir !'\n"
+"'Uniquement à cause de votre armure décorée bon marché ?'"
 
 #. [object]
 #: .\utils\item_list.cfg:8359
@@ -17174,7 +17177,7 @@ msgstr "Fortifié"
 #. [name_variation]
 #: .\utils\titles.cfg:513
 msgid "Otherworldly"
-msgstr "d'Un Autre Monde"
+msgstr "d'un Autre Monde"
 
 #. [name_variation]
 #: .\utils\titles.cfg:517
@@ -17319,7 +17322,7 @@ msgstr "Lacs"
 #. [name_variation]
 #: .\utils\titles.cfg:661
 msgid "Tunnels"
-msgstr "des Tunnels"
+msgstr "Tunnels"
 
 #. [name_variation]
 #: .\utils\titles.cfg:670
@@ -18231,7 +18234,7 @@ msgstr "Acheter une améthyste pour 500 pièces d'or (vous en avez actuellement 
 #. [option]
 #: .\utils\utils.cfg:180
 msgid "Buy a sapphire for 1000 gold (currently having $sapphires of them)"
-msgstr "Acheter un sapphire pour 1000 pièces d'or (vous en avez actuellement $sapphires)"
+msgstr "Acheter un saphir pour 1000 pièces d'or (vous en avez actuellement $sapphires)"
 
 #. [option]
 #: .\utils\utils.cfg:184
@@ -18290,7 +18293,7 @@ msgstr "perfectionniste"
 #. [trait], id=perfectionist
 #: .\utils\utils.cfg:303
 msgid "An obsessive attention to detail allows this unit to inflict 50% more damage, while requiring much more XP to advance"
-msgstr "Une attention obsessive aux détails permet à cette unité d'infligé 50% de dégats supplémentaires tout en demandant beaucoup plus d'XP pour avancer."
+msgstr "Une attention obsessive aux détails permet à cette unité d'infligé 50% de dégâts supplémentaires tout en demandant beaucoup plus d'XP pour avancer."
 
 #. [trait], id=unstoppable
 #: .\utils\utils.cfg:326
@@ -18335,7 +18338,7 @@ msgstr "impulsive"
 #. [trait], id=impulsive
 #: .\utils\utils.cfg:367
 msgid "This unit does not think before acting, and can attack first even when defending"
-msgstr "Cette unité ne réflechit pas avant d'agir et attaque en premier même en défense"
+msgstr "Cette unité ne réfléchit pas avant d'agir et attaque en premier même en défense"
 
 #. [trait], id=thermophile
 #: .\utils\utils.cfg:381
@@ -18380,7 +18383,7 @@ msgstr "cynique"
 #. [trait], id=cynic
 #: .\utils\utils.cfg:440
 msgid "This unit has fought so many monsters that he subconsciously defies magic, becoming more resistant to arcane damage"
-msgstr "Cette unité a combattu tellement de monstres qu'elle se défie de façon subconsciente de la magie, devenant plus résistante au dégat d'arcane"
+msgstr "Cette unité a combattu tellement de monstres qu'elle se défie de façon subconsciente de la magie, devenant plus résistante aux dégats d'arcane"
 
 #. [time], id=fimbulwinter_dawn
 #: .\utils\utils.cfg:454
@@ -18471,7 +18474,7 @@ msgstr "Pourquoi puis-je retirer uniquement les potions et les livres mais aucun
 #. [message], speaker=narrator
 #: .\utils\help\faq.cfg:14
 msgid "In order to avoid misuse, it is impossible to unstore other things than potions and limited items after turn 2. This rule doesn't apply on castle terrain. So, if there is none around and you need a lot of swapping, equip your units at the beginning of each scenario. If you want to swap items later, just put them on the ground."
-msgstr "Afin d'éviter des mésusages, il est impossible de retirer autre chose que des potions et des objets limités après le tour 2. Cette règle ne s'applique pas sur les châteaux. Ainsi, s'il n'y a personne alentour et que vous avez besoin de beaucoup d'échanges, équipez vos unités au début de chaque scénario. Si vous avez besoin d'échanger des objets plus tard, déposez les simplement au sol. "
+msgstr "Afin d'éviter des mésusages, il est impossible de retirer autre chose que des potions et des objets limités après le tour 2. Cette règle ne s'applique pas sur les châteaux. Ainsi, s'il n'y a personne alentour et que vous avez besoin de beaucoup d'échanges, équipez vos unités au début de chaque scénario. Si vous avez besoin d'échanger des objets plus tard, déposez-les simplement au sol. "
 
 #. [option]
 #: .\utils\help\faq.cfg:24
@@ -18487,17 +18490,17 @@ msgid ""
 msgstr ""
 "Les effets 'Augmente les résistances physiques de X%' n'augmentent pas linéairement mais proportionnellement.\n"
 "\n"
-"La résistance fournie par les armures augmente la capacité à supporter d'être attaqué d'une façon spécifique : une unité dont les résistances physiques ont été augmentées de X% subira X% de dégats en moins qu'une unité sans armure. Par exemple : un Bretteur sans armure subit 130% des dégats tranchants. Avec deux pièces d'armure - l'une augmentant les résistances de 20%, l'autre de 10% - il subira (130 x (100 - 20) x (100 -10) = 93.6% des dégats, ce qui équivaut à 7% de résistance au tranchant. Cela s'applique à n'importe quelle unité - peu importe la quantité d'armure qu'elle porte. Naturellement, obtenir des résistances extrèmement élevées nécéssite des objets extrèmement puissants. A noter que seulement la moitié du pourcentage défini s'applique à la résistance au contondant : les armes contondantes ont toujours été utilisées pour cogner les armures."
+"La résistance fournie par les armures augmente la capacité à supporter d'être attaqué d'une façon spécifique : une unité dont les résistances physiques ont été augmentées de X% subira X% de dégâts en moins qu'une unité sans armure. Par exemple : un Bretteur sans armure subit 130% des dégâts tranchants. Avec deux pièces d'armure - l'une augmentant les résistances de 20%, l'autre de 10% - il subira (130 x (100 - 20) x (100 -10) = 93.6% des dégâts, ce qui équivaut à 7% de résistance au tranchant. Cela s'applique à n'importe quelle unité - peu importe la quantité d'armure qu'elle porte. Naturellement, obtenir des résistances extrêmement élevées nécessite des objets extrêmement puissants. A noter que seulement la moitié du pourcentage défini s'applique à la résistance au contondant : les armes contondantes ont toujours été utilisées pour cogner les armures."
 
 #. [option]
 #: .\utils\help\faq.cfg:40
 msgid "Why am I receiving information about some precious stones?"
-msgstr "Pourquoi est-ce que je recois des informations à propos de pierres précieuses ?"
+msgstr "Pourquoi est-ce que je reçois des informations à propos de pierres précieuses ?"
 
 #. [message], speaker=narrator
 #: .\utils\help\faq.cfg:44
 msgid "There are some precious stones on the ground, dropped by enemies. They are small, not very visible, so you probably didn't notice them. Collect them, quite powerful items can be made from them."
-msgstr "Il y a des pierres précieuses sur le sol, lâchées par des ennemies. Elles sont petites, peu visibles, alors vous n'y avez probablement pas fait attention. Récupérez les, des objets assez puissants peuvent être fabriqués à partir d'elles."
+msgstr "Il y a des pierres précieuses sur le sol, lâchées par des ennemies. Elles sont petites, peu visibles, alors vous n'y avez probablement pas fait attention. Récupérez-les, des objets assez puissants peuvent être fabriqués à partir d'elles."
 
 #. [option]
 #: .\utils\help\faq.cfg:54
@@ -18512,7 +18515,7 @@ msgstr "L'inventaire est commun à toutes les unités pour des raisons de simpli
 #. [option]
 #: .\utils\help\faq.cfg:68
 msgid "Enemy leader dies and drops an item – mission completed, end of the scenario. Wouldn't it be possible to let me get the item?"
-msgstr "Le chef ennemi est mort et à laché un objet - mission accomplie, fin du scénario. Ne serait-il pas possible de me laisser récupérer l'objet ?"
+msgstr "Le chef ennemi est mort et à lâché un objet - mission accomplie, fin du scénario. Ne serait-il pas possible de me laisser récupérer l'objet ?"
 
 #. [message], speaker=narrator
 #: .\utils\help\faq.cfg:72
@@ -18532,12 +18535,12 @@ msgstr "Votre soif de butin est sans limite, n'est-ce pas ? Il est placé dans v
 #. [option]
 #: .\utils\help\faq.cfg:96
 msgid "Why my unit does less and less damage?"
-msgstr "Pourquoi mon unité inflige-t-elle de moins en moins de dégats ?"
+msgstr "Pourquoi mon unité inflige-t-elle de moins en moins de dégâts ?"
 
 #. [message], speaker=narrator
 #: .\utils\help\faq.cfg:100
 msgid "Attacks that hit multiple enemies are extremely powerful and thus have a drawback - they temporarily reduce the user's damage, which prevents you from using them all the time. Do not use them to avoid this issue."
-msgstr "Les attaques qui touchent de multiples ennemis sont extrèmement puissantes mais ont un inconvénient - elles réduisent temporairement les dégats de l'utilisateur, ce qui vous empêche de les utiliser tout le temps. Ne les utilisez pas pour éviter le problème. "
+msgstr "Les attaques qui touchent de multiples ennemis sont extrêmement puissantes mais ont un inconvénient - elles réduisent temporairement les dégâts de l'utilisateur, ce qui vous empêche de les utiliser tout le temps. Ne les utilisez pas pour éviter le problème. "
 
 #. [option]
 #: .\utils\help\faq.cfg:110
@@ -18552,7 +18555,7 @@ msgstr "Ce sont des marchands déguisés. Marchez à côté d'eux pour déclench
 #. [option]
 #: .\utils\help\faq.cfg:124
 msgid "I spent all my gold to buy more automatically recalled units – and not a single one appeared."
-msgstr "J'ai dépensé tout mon argent pour acheter plus d'unités rappellées automatiquement - et pas une seule n'est apparue."
+msgstr "J'ai dépensé tout mon argent pour acheter plus d'unités rappelées automatiquement - et pas une seule n'est apparue."
 
 #. [message], speaker=narrator
 #: .\utils\help\faq.cfg:128
@@ -18567,7 +18570,7 @@ msgstr "La propriété des certains objets qui font qu'une unité gagne de la vi
 #. [message], speaker=narrator
 #: .\utils\help\faq.cfg:142
 msgid "This deliberately works only with items that do impact, pierce or blade damage. Items that change the damage type prevent it from working. There is an item to change the damage type back."
-msgstr "Cela fonctionne délibérément uniquement avec les objets qui infligent des dégats contondants, perforants ou tranchants. Les objets qui changent le type de dégats l'empêche de fonctionner. Il y a un objet pour rechanger le type de dégats. "
+msgstr "Cela fonctionne délibérément uniquement avec les objets qui infligent des dégâts contondants, perforants ou tranchants. Les objets qui changent le type de dégâts l'empêche de fonctionner. Il y a un objet pour rechanger le type de dégâts. "
 
 #. [message], speaker=narrator
 #: .\utils\help\interface.cfg:17
@@ -18590,7 +18593,7 @@ msgstr ""
 "\n"
 "Une unité équipée avec des objets arbore le trait 'ÉQUIPÉ' pour la repérer facilement dans la liste de rappel. Il y a également de petites images d'armures, armes et orbes rouges à côté d'elles pour les identifier en tant que 'pas le soldat le plus sacrifiable'.\n"
 "\n"
-"Pour déséquipper une unité équipée, cliquez sur l'unité et selectionnez la pièce adéquate. Les objets 'limités' sont des éditions rares de livres qui ne peuvent être retirée. "
+"Pour déséquiper une unité équipée, cliquez sur l'unité et sélectionnez la pièce adéquate. Les objets 'limités' sont des éditions rares de livres qui ne peuvent être retirée. "
 
 #. [option]
 #: .\utils\help\interface.cfg:35
@@ -18605,7 +18608,7 @@ msgstr "C'est un peu comme un inventaire de tous vos objets collectés, toutes l
 #. [message], speaker=narrator
 #: .\utils\help\interface.cfg:53
 msgid "The gems you find or that have been dropped by enemies are used to manufacture special gear. Some of them are very frequent, some of them are quite rare. To access crafting, right-click on the unit you want to get these items, hit 'Items' and 'Crafting' then. You will see how many gems of each kind you have (it's common for all units, like the item storage) and you will be asked whether you want to make an armour or a weapon. Then you will select the desired properties (the names of those pieces you can make with your current materials are white coloured, others are marked in red), then you will be asked if you want to make it and told how many gems it costs. Next you are told how many gems you have to fork out to craft the object of desire. If you confirm the selection you will be asked to choose the type of item. In case of crafting armour: Note, that helms, gloves or boots will increase physical resistances only by a third of the value promised because droppable armours typically increase the physical resistances significantly more than other armour pieces. So if you used some mid level crafting recipes with values made suitable for armours to make gauntlets, you'd produce items with far better defensive properties than other gauntlets."
-msgstr "Les gemmes que vous trouvez ou qui ont été lâchées par des ennemis sont utilisées pour fabriquer de l'équipement spécial. Certaines sont très fréquentes, d'autres très rares. Pour accéder à l'artisanat, cliquez-droit sur l'unité à qui vous voulez donner ces objets, cliquez sur 'Objets' et ensuite sur 'Artisanat'. Vous verrez combien de gemmes de chaque type vous avez (en commun pour toutes les unités, comme le stock d'objets) et il vous sera demandé si vous voulez fabriquer un armure ou une arme. Vous choisirez ensuite les propriétés désirées (le nom des pièces que vous pouvez fabriquer avec les matériaux que vous avez sont colorés en blanc, les autres en rouge), il vous sera ensuite demandé si vous voulez la fabriquer et dit combien de gemmes cela coûte. Il vous sera ensuite dit combien de gemmes vous devez dépenser pour fabriquer l'objet de votre désir. Si vous confirmez la sélection, il vous sera demandé de choisir le type d'objet. Dans le cas de la fabrication d'armure : notez que les heaumes, gants et bottes n'augmenteront les réistances physiques que d'un tiers de la valeur promise car les pièces d'armure retirables augmentent typiquement les résistances physiques significativement moins que les autres pièces d'armure. Si vous utilisez des recettes d'artisanat de niveau moyen avec des valeurs ajustées pour des armures pour fabriquer des gantelets, vous produiriez des objets avec des propriétés défensives bien meilleures que les autres gantelets. "
+msgstr "Les gemmes que vous trouvez ou qui ont été lâchées par des ennemis sont utilisées pour fabriquer de l'équipement spécial. Certaines sont très fréquentes, d'autres très rares. Pour accéder à l'artisanat, cliquez-droit sur l'unité à qui vous voulez donner ces objets, cliquez sur 'Objets' et ensuite sur 'Artisanat'. Vous verrez combien de gemmes de chaque type vous avez (en commun pour toutes les unités, comme le stock d'objets) et il vous sera demandé si vous voulez fabriquer une armure ou une arme. Vous choisirez ensuite les propriétés désirées (le nom des pièces que vous pouvez fabriquer avec les matériaux que vous avez sont colorés en blanc, les autres en rouge), il vous sera ensuite demandé si vous voulez la fabriquer et dit combien de gemmes cela coûte. Il vous sera ensuite dit combien de gemmes vous devez dépenser pour fabriquer l'objet de votre désir. Si vous confirmez la sélection, il vous sera demandé de choisir le type d'objet. Dans le cas de la fabrication d'armure : notez que les heaumes, gants et bottes n'augmenteront les résistances physiques que d'un tiers de la valeur promise car les pièces d'armure retirables augmentent typiquement les résistances physiques significativement moins que les autres pièces d'armure. Si vous utilisez des recettes d'artisanat de niveau moyen avec des valeurs ajustées pour des armures pour fabriquer des gantelets, vous produiriez des objets avec des propriétés défensives bien meilleures que les autres gantelets. "
 
 #. [option]
 #: .\utils\help\interface.cfg:63
@@ -18615,7 +18618,7 @@ msgstr "Livres"
 #. [message], speaker=narrator
 #: .\utils\help\interface.cfg:67
 msgid "Books are items which can't be unequipped and add new advancement paths to their lucky owners. The new career opportunities show when the unit is going to take a promotion, hence when the required XP for the next level have been obtained. Improvements gained by books are also displayed among ability upgrades in the unit description."
-msgstr "Les livres sont des objets qui ne peuvent être déséquippés et ajoute des nouvelles voies d'avancement à leurs heureux propriétaires. Les nouvelles opportunités de carrières sont affichées lorsque l'unité va être promue, et donc lorsque l'XP requise pour le niveau suivant a été obtenue. Les améliorations obtenues via les livres sont également affichées avec les améliorations de capacité dans la description de l'unité."
+msgstr "Les livres sont des objets qui ne peuvent être déséquipés et ajoute des nouvelles voies d'avancement à leurs heureux propriétaires. Les nouvelles opportunités de carrières sont affichées lorsque l'unité va être promue, et donc lorsque l'XP requise pour le niveau suivant a été obtenue. Les améliorations obtenues via les livres sont également affichées avec les améliorations de capacité dans la description de l'unité."
 
 #. [option]
 #: .\utils\help\interface.cfg:77
@@ -18625,7 +18628,7 @@ msgstr "Héritages"
 #. [message], speaker=narrator
 #: .\utils\help\interface.cfg:81
 msgid "Each living unit has a legacy. One advancement opportunity must be sacrificed to learn it. Deliberately, only the next level-up will disclose the traces of legendary genes in the unit's blood and you can use their benefits. The improvements are usually better than the normal ones, but might not be very useful to the unit in question. Still, once aware of a legacy, it won't change – no matter how far backwards you reload the game."
-msgstr "Toute unité vivante a un héritage. Une opportunité d'avancement doit être sacrifiée pour le connaître. Délibérement, seul la prochaine montée de niveau divulguera les traces de gènes légendaires dans le sang de l'unité et vous pourrez alors utiliser ses avantages. Les améliorations sont habituellement meilleurs que les normaux mais peuvent ne pas être très utiles pour l'unité en question. Dans tous les cas, une fois conscient d'un héritage, il ne changera pas - qu'importe jusqu'à quel point vous rechargerez le jeu. "
+msgstr "Toute unité vivante a un héritage. Une opportunité d'avancement doit être sacrifiée pour le connaître. Délibérément, seule la prochaine montée de niveau divulguera les traces de gènes légendaires dans le sang de l'unité et vous pourrez alors utiliser ses avantages. Les améliorations sont habituellement meilleures que les normaux mais peuvent ne pas être très utiles pour l'unité en question. Dans tous les cas, une fois conscient d'un héritage, il ne changera pas - qu'importe jusqu'à quel point vous rechargerez le jeu. "
 
 #. [option]
 #: .\utils\help\interface.cfg:91
@@ -18642,12 +18645,12 @@ msgid ""
 "-Some items only take effect in combination with specific other equipped items. In descriptions, those items are displayed with purple letters, these properties work like advancements.\n"
 "-Some advancements give special attacks whose damage, attack count, icon, specials and animation is based on the base attack of that unit."
 msgstr ""
-"- Les dégats de base d'une attaque sont déterminé par les stats de base de l'unité et ses avancements, pas de changement ici.\n"
-"- Les valeurs en pourcentage des effets des objets sont ajouté aux dégats de base de chaque arme, les multipliant ainsi. Le résultat est affiche comme 'Dégats augmentés de X%'.\n"
-"- La défense/résistance fournie par les armures augmente la capacité à supporter d'être attaqué d'une façon spécifique : une unité dont les résistances physiques ont été augmentées de X% subira X% de dégats en moins qu'une unité sans armure (la résistance au contondant n'est affectée que de la moitié du pourcentage défini). Cela s'applique à n'importe quelle unité - peu importe la quantité d'armure qu'elle porte. Naturellement, obtenir des résistances extrèmement élevées nécéssite des objets extrèmement puissants.\n"
+"- Les dégâts de base d'une attaque sont déterminé par les stats de base de l'unité et ses avancements, pas de changement ici.\n"
+"- Les valeurs en pourcentage des effets des objets sont ajouté aux dégâts de base de chaque arme, les multipliant ainsi. Le résultat est affiche comme 'Dégats augmentés de X%'.\n"
+"- La défense/résistance fournie par les armures augmente la capacité à supporter d'être attaqué d'une façon spécifique : une unité dont les résistances physiques ont été augmentées de X% subira X% de dégâts en moins qu'une unité sans armure (la résistance au contondant n'est affectée que de la moitié du pourcentage défini). Cela s'applique à n'importe quelle unité - peu importe la quantité d'armure qu'elle porte. Naturellement, obtenir des résistances extrêmement élevées nécessite des objets extrêmement puissants.\n"
 "- Certains effets s'additionnent, une application répétée augmente leur intensité. Par exemple, \"Aspire X de vie des cibles à chaque coup', où la somme de toutes les quantités de PV est drainée. De même avec 'pénétration'.\n"
 "- Certains objets n'ont d'effet qu'en combinaison avec d'autres objets équipés spécifiques. Dans les descriptions, ces objets sont affichés en lettres violettes, ces propriétés fonctionnent comme des avancements.\n"
-"- Certains avancements donnent des attaques spéciales dont les dégats, nombre d'attaques, icône, spécificité et animations sont basées sur l'attaque de base de l'unité. "
+"- Certains avancements donnent des attaques spéciales dont les dégâts, nombre d'attaques, icône, spécificité et animations sont basées sur l'attaque de base de l'unité. "
 
 #~ msgid "better"
 #~ msgstr "meilleur "
